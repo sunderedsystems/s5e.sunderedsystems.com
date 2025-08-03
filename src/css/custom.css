@@ -1,0 +1,308 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap');
+
+:root {
+  --sw-purple: #2C1C3B;
+  --sw-purple-hover: #3D2D56;
+  --sw-gold: #D9AE60;
+  --sw-tab-gold: #B78A4A;
+  --sw-white: #F6F1EB;
+  --sw-bg: #F6F1EB;
+  --sw-text: #111111;
+  --sw-error: #B94A48;
+}
+
+[data-theme="dark"] {
+  --sw-purple: #2C1C3B;
+  --sw-purple-hover: #3D2D56;
+  --sw-gold: #D9AE60;
+  --sw-tab-gold: #3D2D56;
+  --sw-white: #F6F1EB;
+  --sw-bg: #18181b;
+  --sw-text: #F6F1EB;
+  --sw-error: #B94A48;
+}
+
+/* Set Lora everywhere */
+html, body, #__docusaurus, .main-wrapper, .theme-doc-content, .markdown,
+h1, h2, h3, h4, h5, h6,
+.hero__title, .logo-tagline,
+.menu__link, .navbar__title, .navbar__link, .footer, .footer__bottom {
+  font-family: 'Lora', serif !important;
+  font-variant-ligatures: common-ligatures;
+  letter-spacing: 0.01em;
+}
+
+/* Apply backgrounds everywhere */
+html, body, #__docusaurus, .main-wrapper, .theme-doc-content, .markdown {
+  background: var(--sw-bg) !important;
+  color: var(--sw-text) !important;
+  min-height: 100vh;
+}
+
+/* ---------- Sidebar ---------- */
+.theme-doc-sidebar-container {
+  background: var(--sw-bg) !important;
+  border-right: 2px solid var(--sw-tab-gold) !important;
+}
+.menu__link {
+  color: var(--sw-purple) !important;
+  background: transparent !important;
+  font-weight: 600;
+  border-radius: 8px;
+  transition: background 0.15s, color 0.15s;
+}
+.menu__link--active {
+  color: var(--sw-white) !important;
+  background: var(--sw-purple) !important;
+}
+.menu__link:hover,
+.menu__link:focus {
+  color: var(--sw-gold) !important;
+  background: var(--sw-purple-hover) !important;
+}
+[data-theme="dark"] .menu__link {
+  color: var(--sw-white) !important;
+}
+[data-theme="dark"] .menu__link--active {
+  color: var(--sw-purple) !important;
+  background: var(--sw-white) !important;
+}
+[data-theme="dark"] .menu__link:hover,
+[data-theme="dark"] .menu__link:focus {
+  color: var(--sw-gold) !important;
+  background: var(--sw-purple-hover) !important;
+}
+[data-theme="dark"] .theme-doc-sidebar-container {
+  border-right: 2px solid var(--sw-white) !important;
+}
+/* Sidebar category headers */
+.menu__list-item-collapsible > .menu__link {
+  color: var(--sw-purple) !important;
+  font-weight: bold !important;
+  background: transparent !important;
+}
+[data-theme="dark"] .menu__list-item-collapsible > .menu__link {
+  color: var(--sw-white) !important;
+}
+
+/* ---------- Navbar ---------- */
+.navbar {
+  background: var(--sw-purple) !important;
+  color: var(--sw-white) !important;
+}
+.navbar__title, .navbar__link {
+  color: var(--sw-white) !important;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+.navbar__link--active, .navbar__title--active {
+  color: var(--sw-gold) !important;
+}
+.navbar__link:hover, .navbar__title:hover {
+  color: var(--sw-gold) !important;
+  text-decoration: underline !important;
+}
+[data-theme="dark"] .navbar {
+  background: var(--sw-white) !important;
+  color: var(--sw-purple) !important;
+}
+[data-theme="dark"] .navbar__title, 
+[data-theme="dark"] .navbar__link {
+  color: var(--sw-purple) !important;
+}
+[data-theme="dark"] .navbar__link--active, 
+[data-theme="dark"] .navbar__title--active {
+  color: var(--sw-gold) !important;
+}
+[data-theme="dark"] .navbar__link:hover, 
+[data-theme="dark"] .navbar__title:hover {
+  color: var(--sw-gold) !important;
+}
+
+.theme-doc-markdown table,
+.theme-doc-markdown .markdown table,
+.markdown table {
+  width: 100% !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  background: none;
+  font-size: 1rem;
+  overflow-x: auto;
+}
+
+.theme-doc-markdown table,
+.theme-doc-markdown .markdown table,
+.markdown table {
+  display: table;
+}
+
+[data-theme="dark"] .markdown th {
+  background: #2C1C3B !important;
+  color: var(--sw-gold) !important;
+}
+
+[data-theme="dark"] .markdown tr:nth-child(even) td {
+  background: rgba(44, 28, 59, 0.7) !important;
+}
+
+[data-theme="dark"] .markdown tr:nth-child(odd) td {
+  background: none !important;
+}
+
+[data-theme="dark"] .markdown tr:nth-child(even) td {
+  background: rgba(44, 28, 59, 0.7);
+}
+
+/* ---------- BADGE SECTION ---------- */
+.sundered-badge-row {
+  display: flex;
+  justify-content: center;
+  gap: 3em;
+  margin-bottom: 1em;
+}
+.sundered-badge-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.sundered-badge {
+  width: 120px;
+  max-width: 120px;
+  height: auto;
+  margin-bottom: 1em;
+}
+.sundered-badge-download {
+  display: inline-block;
+  padding: 0.75em 2em;
+  margin-top: 0.5em;
+  font-weight: 600;
+  color: #fff;
+  background: #2C1C3B;
+  border-radius: 8px;
+  text-decoration: none;
+  border: 2px solid #D9AE60;
+  transition: background 0.15s;
+}
+.sundered-badge-download.inv {
+  color: #2C1C3B;
+  background: #F6F1EB;
+}
+.sundered-badge-download:hover,
+.sundered-badge-download.inv:hover {
+  background: #D9AE60;
+  color: #2C1C3B;
+}
+
+/* ---------- Footer Customization ---------- */
+.footer, .footer__bottom {
+  background: var(--sw-purple) !important;
+  color: var(--sw-gold) !important;
+  border-top: 1px solid var(--sw-gold) !important;
+}
+.footer a, .footer__bottom a {
+  color: var(--sw-gold) !important;
+  text-decoration: underline;
+}
+[data-theme="dark"] .footer, 
+[data-theme="dark"] .footer__bottom {
+  background: #18181b !important;
+  color: var(--sw-gold) !important;
+  border-top: 1px solid var(--sw-gold) !important;
+}
+[data-theme="dark"] .footer a,
+[data-theme="dark"] .footer__bottom a {
+  color: var(--sw-gold) !important;
+}
+
+/* ---------- Pagination Button Styling ---------- */
+.pagination-nav__label {
+  font-size: 1.02em;
+  color: var(--sw-gold) !important;
+  font-weight: bold;
+  margin-bottom: 0.14em;
+  margin-right: 0.7em;
+  margin-left: 0;
+  display: inline-block;
+  letter-spacing: 0.03em;
+}
+.pagination-nav__link--next .pagination-nav__label {
+  margin-right: 0;
+  margin-left: 0.7em;
+}
+.pagination-nav__sublabel {
+  display: none;
+}
+.pagination-nav__link {
+  font-size: 1.08em;
+  font-weight: 700;
+  color: var(--sw-gold) !important;
+  background: var(--sw-purple) !important;
+  border: 2px solid var(--sw-gold) !important;
+  border-radius: 16px !important;
+  box-shadow: 0 2px 10px 0 rgba(44,28,59,0.08);
+  padding: 1.1em 1.8em !important;
+  margin: 0 1em 0 0;
+  min-width: 330px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.6em;
+  transition: background 0.18s, color 0.18s, border-color 0.18s;
+}
+.pagination-nav__link--next {
+  justify-content: flex-end;
+  margin: 0 0 0 1em;
+}
+.pagination-nav__link:hover,
+.pagination-nav__link:focus {
+  background: var(--sw-gold) !important;
+  color: var(--sw-purple) !important;
+  border-color: var(--sw-purple) !important;
+}
+.pagination-nav__link:hover .pagination-nav__label,
+.pagination-nav__link:focus .pagination-nav__label {
+  color: var(--sw-purple) !important;
+}
+[data-theme="dark"] .pagination-nav__link {
+  background: #18181b !important;
+  color: var(--sw-gold) !important;
+  border: 2px solid var(--sw-gold) !important;
+}
+[data-theme="dark"] .pagination-nav__link:hover,
+[data-theme="dark"] .pagination-nav__link:focus {
+  background: var(--sw-gold) !important;
+  color: #18181b !important;
+  border-color: var(--sw-gold) !important;
+}
+[data-theme="dark"] .pagination-nav__label {
+  color: var(--sw-gold) !important;
+}
+[data-theme="dark"] .pagination-nav__link:hover .pagination-nav__label,
+[data-theme="dark"] .pagination-nav__link:focus .pagination-nav__label {
+  color: #18181b !important;
+}
+
+/*--- fallback ----*/
+[data-theme="dark"] html,
+[data-theme="dark"] body,
+[data-theme="dark"] #__docusaurus,
+[data-theme="dark"] .main-wrapper,
+[data-theme="dark"] .theme-doc-content,
+[data-theme="dark"] .markdown {
+  background: #18181b !important;
+}
+html, body, #__docusaurus, .main-wrapper, .theme-doc-content, .markdown {
+  background: var(--sw-bg, #18181b) !important;
+}
+
+/* Enforcement*/
+body,
+#__docusaurus,
+.main-wrapper,
+.theme-doc-content,
+.markdown {
+  background: var(--sw-bg, #18181b, #000) !important;
+}

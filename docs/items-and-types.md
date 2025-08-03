@@ -1,0 +1,140 @@
+# Items and Magic
+
+## Magical Items
+
+Magical items are fonts of power—each has its own **internal Source pool**. They can fuel **abilities**, **techniques**, and **spells**, acting as external sources of energy beyond the character’s personal SD.
+
+---
+
+## Attunement
+
+To use an item’s Source, a character must **attune** to it.
+
+### Attunement Time
+
+- Takes **1 day per SD** of the item
+- For each day of attunement: access **+1 SD**
+
+### Attunement Limit
+
+- A character may be attuned to magical items with a **combined SD pool no greater than their base SD**
+- This is **before** item bonuses or temporary boosts
+
+---
+
+## Source Regeneration (Items)
+
+- Regenerates **when unused**
+- **Using the item resets the timer**
+
+### Regeneration Pattern
+
+| Hours Unused | SD Regained |
+|--------------|-------------|
+| 1            | +1          |
+| 2            | +2          |
+| 3            | +4          |
+| 4            | +8          |
+| ...          | ...         |
+
+> This **doubling** continues until the item is full
+
+---
+
+## Using Item Source
+
+- Item SD can fuel any ability, spell, or technique **as if it were your own**
+- Item SD **regeneration is tracked separately**
+- Makes magical items valuable for:
+  - **Emergency surges**
+  - **Prolonged encounters**
+  - **Bypassing SD limits**
+
+---
+
+## Crafting Magical Items
+
+Crafting = investing Source, time, and materials to imbue power into an item.
+
+### Crafting Commitment
+
+- Total SD committed = item’s final **Source pool**
+- **1 SD = 1 day** of crafting
+- Multiple crafters can share commitment
+- If one person completes it alone, they are **fully attuned** at creation
+
+---
+
+### Materials & Magic
+
+- Materials are chosen by the **GM**, based on item type and rarity
+- **Above Common**: requires a magical **conduit** to be imbued
+- Magic (rituals, workshops) may **accelerate crafting time**
+
+---
+
+### Item Customization
+
+- Items can be imbued with Cantrips/Spells/Techniques
+- Items (including weapons/armor) have 9 attribute slots 
+- Must choose all **attributes** at crafting time
+- Each cantrip, spell, or technique uses a number of attribute slots equal to its Source Cost (minimum 1)
+
+| Limit | Attribute Types |
+|-------|------------------|
+| 9     | Cantrips, Spells, Techniques |
+
+---
+
+### Item Activation
+
+- Activating the cantrip, spell, or technique requires a Core Action or equivalent and an expenditure of Source or Movement equal to the Attribute.
+
+- If attuned with an item, you add your proficiency to checks made with the item, including Activation.
+
+- Items are activated using your choice of either Wisdom, Knowledge, or Influence.
+
+- If attuned to an item, checks made with the item use your modifier + proficiency.
+
+> Note: Common items do **not** require attunement.
+
+---
+
+## Mythic Items
+
+Divine constructs, vastly powerful, change how Source scales.
+
+### Mythic Item Traits
+
+- **Source Pool**: 20d20 or more committed during crafting.
+- **Effect**: Increases your **base SD by your level**
+- You may spend SD **up to your character level per turn** (instead of up to proficiency)
+  - Exceeding the proficiency cap within a round still causes **strain**
+
+### Limits & Requirements
+
+- Only **one Mythic item** may be attuned at a time
+- Requires **10+** in **Wisdom, Knowledge, or Influence**
+
+---
+
+### Mythic Loadout Example
+
+- Level 17 character with a Mythic item
+- Base SD = 20 → becomes **37**
+- Attuned item SD pool can total **up to 37**
+- If attuned to three Legendary items = 36 SD:
+  - Total usable SD = **37 (char) + 36 (items) = 73**
+
+---
+
+## Item Rarity, Power
+
+| Rarity     | Colloquiality   | Found Where               | SD Pool    |
+|------------|------------------|---------------------------|------------|
+| Common     | Typical           | Shops                     | +0        |
+| Uncommon   | Specialized       | Specialty shops           | +6 |
+| Rare       | Heirloom          | Vaults, elite trade       | +8 |
+| Heroic     | Historical        | Hoards, sealed tombs      | +10 |
+| Legendary  | Changed history   | National treasures        | +12 |
+| Mythic     | Divine            | Lost to time, divine realms | = Level  |
