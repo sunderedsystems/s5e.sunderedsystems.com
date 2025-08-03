@@ -49,7 +49,7 @@ const config = {
     ({
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Sundered 5e',
+        title: 'Home',
         logo: {
           alt: 'Sundered logo',
           // LIGHT MODE LOGO
