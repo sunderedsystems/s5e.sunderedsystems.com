@@ -49,7 +49,7 @@ const config = {
     ({
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Home',
+        title: '',
         logo: {
           alt: 'Sundered logo',
           // LIGHT MODE LOGO
