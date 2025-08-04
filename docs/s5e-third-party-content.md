@@ -37,7 +37,7 @@ The following are considered **Licensed Material** under the ORC and have been a
 - Class progressions or ability templates from the Pathfinder SRD
 - Specific terminology such as feats, conditions, or combat scaffolds
 
-The full ORC License text can be found [here](./orc.md).
+The full ORC License text can be found [here]([./orc.md](https://paizo.com/orclicense)).
 
 ---
 
