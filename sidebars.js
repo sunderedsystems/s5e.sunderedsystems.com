@@ -141,6 +141,8 @@ module.exports = {
   licensingSidebar: [
     'SCL',
     's5e-third-party-content',
+    '5.1cc-srd',
+    'orc',
     'faq',
   ],
 };
