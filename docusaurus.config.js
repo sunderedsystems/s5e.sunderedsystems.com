@@ -25,11 +25,6 @@ const config = {
     locales: ['en'],
   },
 
-  // Remove favicon-switcher.js, you don't need it!
-  // scripts: [
-  //   '/favicon-switcher.js',
-  // ],
-
   presets: [
     [
       'classic',
@@ -69,7 +64,7 @@ const config = {
             to: '/docs/SCL',
             position: 'left',
           },
-             {
+          {
             href: 'https://core.sunderedsystems.com',
             label: 'Sundered Core',
             position: 'right',
@@ -92,8 +87,16 @@ const config = {
                 href: 'https://discord.gg/sunderedhttps://discord.gg/wMJ2xjb6',
               },
               {
-                label: 'Twitter / X',
-                href: 'https://x.com/sunderedsystem',
+                label: 'TikTok',
+                href: 'https://www.tiktok.com/@sunderedsystems',
+              },
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/sunderedsystems',
+              },
+              {
+                label: 'Reddit',
+                href: 'https://www.reddit.com/r/sunderedsystems',
               },
             ],
           },
