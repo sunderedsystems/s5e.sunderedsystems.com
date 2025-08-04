@@ -69,6 +69,11 @@ const config = {
             to: '/docs/SCL',
             position: 'left',
           },
+             {
+            href: 'https://core.sunderedsystems.com',
+            label: 'Sundered Core',
+            position: 'right',
+          },
           {
             href: 'https://github.com/sunderedsystems/sundered5e',
             label: 'GitHub',
