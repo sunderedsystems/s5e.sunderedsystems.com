@@ -23,6 +23,8 @@ This includes:
 
 These elements are used under the terms of the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/), and are clearly separated from original *Sundered* mechanics wherever possible.
 
+The full CC BY 4.0 License text can be found [here](5.1cc-srd.md).
+
 > If you are publishing Sundered-compatible works, **you do not need to include the CC BY license**, unless you are directly reproducing or remixing 5e SRD content. In that case, proper attribution and license compliance are required under CC BY 4.0.
 
 ---
