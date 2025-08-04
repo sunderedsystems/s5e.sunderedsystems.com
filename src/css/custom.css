@@ -306,7 +306,6 @@ body,
 .markdown {
   background: var(--sw-bg, #18181b, #000) !important;
 }
-}
 /* ---------- Mobile Pagination Nav Fix ---------- */
 @media (max-width: 600px) {
   .pagination-nav {
