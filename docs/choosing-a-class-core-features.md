@@ -11,9 +11,9 @@ Classes define your unique strengths. The following are adapted from D&D 5e, str
 
 ---
 
-### Bard: Inspiring
+### Bard: Inspire
 
-- Impose advantage or disadvantage a number of times per encounter equal to proficiency on any check within 30ft you can see or hear.
+- The bard has a number of inspiration equal to their proficiency. They can use one this inspiration to impose advantage or disadvantage on one check they can see within 60ft. This pool of inspiration recharges at the same rate as Source.
 
 ---
 
