@@ -127,5 +127,15 @@ const config = {
       },
     }),
 };
+plugins: [
+  [
+    require.resolve('@docusaurus/plugin-search-local'),
+    {
+      hashed: true,
+      // More options here if you want (see docs)
+    },
+  ],
+],
+
 
 export default config;
