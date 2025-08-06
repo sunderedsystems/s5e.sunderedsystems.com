@@ -45,12 +45,15 @@ The full ORC License text can be found [here](orc.md).
 
 ## ✅ Original Content (© Robert Alexander Beeson)
 
-All mechanics, terminology, and systems presented in this document are original to the **Sundered** RPG and protected under standard copyright. This includes, but is not limited to:
+All mechanics, terminology, and systems presented in this document are original to the **Sundered** System and protected under copyright. They may not be reproduced or used outside the terms of the **Sundered Creator License (SCL)**.
 
-> **Source, Techniques, Conversion, Echelons, Momentum & Renown, Stress & Strain, Replenishment & Renewal**, and the full terminology and structure outlined in this ruleset.
+This includes, but is not limited to:
 
-These elements are not part of any existing open license and may only be used in accordance with the **Sundered Creator License (SCL)**, available at:  
+> **Source, Source Dice, Techniques, Conversion, Echelons, Momentum & Renown, Stress & Strain, Replenishment & Renewal, the DC formula (30 − Ability Score), scaling difficulty based on missing Source Dice,** and the full terminology and structure outlined in this ruleset.
+
+These elements are not part of any existing open license.  
 📎 [https://sunderedsystems.com/license](https://sunderedsystems.com/license)
+
 
 ---
 
