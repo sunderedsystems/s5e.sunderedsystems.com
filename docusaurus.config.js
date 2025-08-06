@@ -125,9 +125,7 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-    }),
-};
-plugins: [
+      plugins: [
   [
     require.resolve('@docusaurus/plugin-search-local'),
     {
@@ -137,5 +135,7 @@ plugins: [
   ],
 ],
 
+    }),
+};
 
 export default config;
