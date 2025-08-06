@@ -13,7 +13,11 @@ Classes define your unique strengths. The following are adapted from D&D 5e, str
 
 ### Bard: Inspiration
 
-- The bard has a number of inspiration equal to their proficiency. They can use one this inspiration to impose advantage or disadvantage on one check they can see within 60ft. This pool of inspiration recharges at the same rate as Source.
+- The bard has a pool of inspiration equal to their proficiency (and cannot exceed this maximum) 
+- This pool of inspiration recharges at the same rate as Source.
+- Spend one inspiration to impose advantage or disadvantage on one check they can see or hear within 60ft, or 
+- Grant inspiration to a target within 60ft
+- A target's granted inspiration **cannot** receive another until they have used their current inspiration. 
 
 ---
 
