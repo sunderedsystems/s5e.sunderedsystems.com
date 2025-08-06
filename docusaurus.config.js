@@ -47,9 +47,9 @@ const config = {
       logo: {
         alt: 'Sundered logo',
         // LIGHT MODE LOGO
-        src: 'img/inv.logo.png',
+        src: 'img/inv.logo.png',         // <--- black/dark logo for light mode
         // DARK MODE LOGO
-        srcDark: 'img/logo.png',
+        srcDark: 'img/logo.png',         // <--- white/light logo for dark mode
         href: '/',
       },
       items: [

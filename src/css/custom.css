@@ -306,3 +306,22 @@ body,
 .markdown {
   background: var(--sw-bg, #18181b, #000) !important;
 }
+/* ---------- Mobile Pagination Nav Fix ---------- */
+@media (max-width: 600px) {
+  .pagination-nav {
+    flex-direction: column !important;
+    gap: 1rem !important;
+    align-items: stretch !important;
+  }
+  .pagination-nav__link {
+    min-width: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    font-size: 1em !important;
+    padding: 0.85em 1em !important;
+    border-radius: 12px !important;
+    box-shadow: none !important;
+  }
+}
+

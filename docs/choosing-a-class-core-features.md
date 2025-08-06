@@ -11,9 +11,13 @@ Classes define your unique strengths. The following are adapted from D&D 5e, str
 
 ---
 
-### Bard: Inspiring
+### Bard: Inspiration
 
-- Impose advantage or disadvantage a number of times per encounter equal to proficiency on any check within 30ft you can see or hear.
+- The bard has a pool of inspiration equal to their proficiency (and cannot exceed this maximum) 
+- This pool of inspiration recharges at the same rate as Source.
+- Spend one inspiration to impose advantage or disadvantage on one check they can see or hear within 60ft, or 
+- Grant inspiration to a target within 60ft
+- A target's granted inspiration **cannot** receive another until they have used their current inspiration. 
 
 ---
 
@@ -46,15 +50,15 @@ Classes define your unique strengths. The following are adapted from D&D 5e, str
 
 ### Paladin: Aura
 
-    - Emit an aura with a radius of 5ft per point of proficiency.
+- Emit an aura with a radius of 5ft per point of proficiency.
 
 Allies within the aura:
 
-    - Are immune to fear
+- Are immune to fear
 
-    - Add paladin proficiency to Block and Parry absorption (in addition to their own)
+- Add paladin proficiency to Block and Parry absorption (in addition to their own)
 
-    - Deal additional damage as smite on melee, ranged, or spell attacks originating within the aura
+- Deal additional damage as smite on melee, ranged, or spell attacks originating within the aura
 
 > All bonuses are in addition to base proficiencies.
 
