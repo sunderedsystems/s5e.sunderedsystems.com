@@ -126,6 +126,13 @@ Two creatures directly oppose each other in an action (like gaining control of a
 
 ---
 
+##Advantage and Disadvantage:
+
+  - When you have advantage on a check, roll two d20 and take the higher result.
+
+  - When you have disadvantage, roll two d20 and take the lower result.
+---
+
 ## Disciplines
 
 - On character creation, choose **2 disciplines**
