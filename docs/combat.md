@@ -132,6 +132,26 @@ You may spend unspent movement to reduce physical damage:
 
 ---
 
+## Last Gasp Initiative
+
+- When you are reduced to **0 HP**, you immediately gain the next turn in the round (your “Last Gasp”).
+- Your **movement speed is reduced to zero**. However, you may spend **1 SD for every 10ft of movement** you wish to use during this turn.
+- During your Last Gasp, you may spend up to **SD equal to your level**.
+    - If you **exceed your proficiency cap**, you take **strain** as normal.
+- If your **Source** reaches zero at any point during your Last Gasp, your turn ends and you die.
+- **Alternatively**, you may use your Last Gasp Initiative to **describe your death** or **speak your final words**.
+
+---
+
+## Death, Recovery, & Resurrection
+
+**Death is just a door.** If the party is able and willing, fallen comrades can be returned to life by various powers or quests.
+
+- **Recovery** is determined by the method used to restore a character to life—whether through specific powers, spells, or the outcome of a narrative quest.
+- The precise effects and consequences of resurrection are set by the rules of the spell, ability, or GM discretion.
+
+> *The story may dictate unique consequences, costs, or requirements for returning from death, at the GM’s option.*
+
 ## Encounters
 
 Encounters include **combat**, **negotiation**, or other tense scenes.
