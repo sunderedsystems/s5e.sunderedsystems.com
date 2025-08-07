@@ -136,7 +136,7 @@ You may spend unspent movement to reduce physical damage:
 
 - When you are reduced to **0 HP**, you immediately gain the next turn in the round (your “Last Gasp”).
 - Your **movement speed is reduced to zero**. However, you may spend **1 SD for every 10ft of movement** you wish to use during this turn.
-- During your Last Gasp, you may spend up to **SD equal to your level**.
+- During your Last Gasp, you may spend **Source Dice equal to your level**.
     - If you **exceed your proficiency cap**, you take **strain** as normal.
 - If your **Source** reaches zero at any point during your Last Gasp, your turn ends and you die.
 - **Alternatively**, you may use your Last Gasp Initiative to **describe your death** or **speak your final words**.
