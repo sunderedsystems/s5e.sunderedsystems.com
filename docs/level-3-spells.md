@@ -193,8 +193,8 @@
 ---
 
 ## Revivify  
-**Target:** Touch  
-**Effect:** Bring back a creature that died within the last minute with 1 HP.  
+**Target:** Untargeted 
+**Effect:** Bring back a creature that died within the last minute. Roll SD spent on Revivify to determine HP restored.  
 **Duration:** Instantaneous  
 **Scaling (SD):** +1 SD = additional minute after death limit or roll +1 SD to restore more than 1 HP
 
