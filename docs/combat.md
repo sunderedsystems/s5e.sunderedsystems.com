@@ -30,6 +30,14 @@
 
 ---
 
+Flanking
+
+- If two or more allies are directly flanking an enemy (i.e., positioned on opposite sides), you gain a +2 bonus to attack checks against that enemy.
+- This bonus applies to all attacks made while flanking.
+- Flanking does not grant advantage.
+
+---
+
 ## Interaction & Combat Movement
 
 - **5ft**: Interact with an item (draw weapon, drink potion)
