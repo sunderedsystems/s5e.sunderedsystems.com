@@ -7,7 +7,8 @@ module.exports = {
       collapsible: true,
       items: [
        'welcome',
-       'quickstart',
+       'quickstart-interactive',
+        'quickstart-printable',
       ],
     },
 
