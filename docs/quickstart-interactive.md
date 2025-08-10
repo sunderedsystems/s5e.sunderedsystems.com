@@ -1,6 +1,6 @@
 ---
 id: quickstart
-title: Quickstart (1 Page)
+title: Quickstart
 sidebar_label: Quickstart
 ---
 
