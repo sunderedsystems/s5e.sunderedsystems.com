@@ -8,7 +8,7 @@ module.exports = {
       items: [
        'welcome',
        'quickstart-interactive',
-        'quickstart-printable',
+       'quickstart-printable',
       ],
     },
 
