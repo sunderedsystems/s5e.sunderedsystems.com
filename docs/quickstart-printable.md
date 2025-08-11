@@ -1,5 +1,4 @@
 ---
-id: quickstart-printable
 title: Printable Quickstart
 sidebar_label: Printable Quickstart
 ---
