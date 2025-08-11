@@ -55,7 +55,7 @@ const config = {
       items: [
         {
           label: 's5e Rules',
-          to: '/docs/welcome',
+          to: '/docs/start-here',
           position: 'left',
         },
         {
