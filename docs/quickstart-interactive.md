@@ -1,4 +1,5 @@
 ---
+id: quickstart-interactive
 title: Quickstart
 sidebar_label: Quickstart
 ---
