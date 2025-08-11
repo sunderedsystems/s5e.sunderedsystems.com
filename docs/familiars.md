@@ -1,3 +1,9 @@
+---
+id: "familiars"
+title: "Familiars"
+slug: "/familiars"
+---
+
 # Familiars
 
 A familiar is a magical (or mundane) companion bound to you through the Source.

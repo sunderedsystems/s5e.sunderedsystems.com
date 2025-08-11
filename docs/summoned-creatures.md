@@ -1,3 +1,10 @@
+---
+id: "summoned-creatures"
+title: "Summoned Creatures"
+slug: "/summoned-creatures"
+sidebar_label: "Summoned Creatures"
+---
+
 # Summoned Creatures
 
 A summoned creature is a being temporarily called into existence by your magic. Unlike pets or familiars, summoned creatures are conjured or animated, exist only while sustained by your power, and vanish when their Source is depleted or you choose to dismiss them.

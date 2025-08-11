@@ -36,7 +36,7 @@ Play bold. Play creatively. This is your story. Let’s see how far you can push
 **1) Download the Quickstart**  
 - 👉 **[Quickstart (Interactive)](./quickstart-interactive)** — concise rules to run your first session fast.  
 - 👉 **[Quickstart (Printable)](./quickstart-printable)** — single-page, open view for printing or saving as PDF.
-<!--
+/*
 **2) Grab a Pre‑Generated Character**  
 - 👉 _Pregens (PDF)_ — Tank, Striker, Controller, Support, Hybrid.  
   - `(/docs/pregens)` ← create this page with 4–6 printable level‑1 sheets.
@@ -46,7 +46,7 @@ Play bold. Play creatively. This is your story. Let’s see how far you can push
   - `(/docs/first-adventure)` ← create this page with GM notes, map, and tokens.
 
 > Prefer to build from scratch? Start with **[Creating a Character](/docs/creating-a-character)**.
--->
+*/
 ---
 
 ## After Your First Session
@@ -54,6 +54,6 @@ Play bold. Play creatively. This is your story. Let’s see how far you can push
 - **Learn the full engine:** [Welcome / SRD Index](./start-here)  
 - **Combat & counters:** [Combat](./combat) • [Counters](./counters)  
 - **Magic & techniques:** [Techniques](./techniques) • [Spells by Level](./level-1-spells)  
-- **Creatures & companions:** [Familiars](./familiars) • [Pets](/./pets) • [Summons](/./summoned-creatures)  
+- **Creatures & companions:** [Familiars](./familiars) • [Pets](./pets) • [Summons](./summoned-creatures)  
 - **Join the community:** _Discord link here_  
 - **Create content for Sundered:** [Sundered Creator License (SCL)](./SCL)

@@ -1,3 +1,10 @@
+---
+id: "pets"
+titel: "Pets"
+slug: "/pets"
+sidebar_label: "Pets"
+---
+
 # Pets
 
 A pet is a loyal animal or mount that fights, travels, and explores by your side.
