@@ -1,6 +1,6 @@
 ---
 id: "pets"
-titel: "Pets"
+title: "Pets"
 slug: "/pets"
 sidebar_label: "Pets"
 ---
