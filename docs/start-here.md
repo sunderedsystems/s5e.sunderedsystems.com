@@ -1,5 +1,4 @@
 ---
-id: start-here
 title: New? Start Here
 sidebar_label: Start Here
 ---
