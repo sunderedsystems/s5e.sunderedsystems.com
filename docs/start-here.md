@@ -1,6 +1,8 @@
 ---
+id: start-here
 title: New? Start Here
 sidebar_label: Start Here
+slug: /start-here
 ---
 
 # Welcome to Sundered Systems
