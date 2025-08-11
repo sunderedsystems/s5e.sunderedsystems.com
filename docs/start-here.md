@@ -34,8 +34,8 @@ Play bold. Play creatively. This is your story. Let’s see how far you can push
 ## Play Now (3 steps)
 
 **1) Download the Quickstart**  
-- 👉 **[Quickstart (Interactive)](/docs/quickstart-interactive)** — concise rules to run your first session fast.  
-- 👉 **[Quickstart (Printable)](/docs/quickstart-printable)** — single-page, open view for printing or saving as PDF.
+- 👉 **[Quickstart (Interactive)](./quickstart-interactive)** — concise rules to run your first session fast.  
+- 👉 **[Quickstart (Printable)](./quickstart-printable)** — single-page, open view for printing or saving as PDF.
 <!--
 **2) Grab a Pre‑Generated Character**  
 - 👉 _Pregens (PDF)_ — Tank, Striker, Controller, Support, Hybrid.  
@@ -51,9 +51,9 @@ Play bold. Play creatively. This is your story. Let’s see how far you can push
 
 ## After Your First Session
 
-- **Learn the full engine:** [Welcome / SRD Index](/docs/welcome)  
-- **Combat & counters:** [Combat](/docs/combat) • [Counters](/docs/counters)  
-- **Magic & techniques:** [Techniques](/docs/techniques) • [Spells by Level](/docs/level-1-spells)  
-- **Creatures & companions:** [Familiars](/docs/familiars) • [Pets](/docs/pets) • [Summons](/docs/summoned-creatures)  
+- **Learn the full engine:** [Welcome / SRD Index](./start-here)  
+- **Combat & counters:** [Combat](./combat) • [Counters](./counters)  
+- **Magic & techniques:** [Techniques](./techniques) • [Spells by Level](./level-1-spells)  
+- **Creatures & companions:** [Familiars](./familiars) • [Pets](/./pets) • [Summons](/./summoned-creatures)  
 - **Join the community:** _Discord link here_  
-- **Create content for Sundered:** [Sundered Creator License (SCL)](/docs/SCL)
+- **Create content for Sundered:** [Sundered Creator License (SCL)](./SCL)
