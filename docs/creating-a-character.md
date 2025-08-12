@@ -79,7 +79,6 @@ You can restore Source through endurance and focus.
 - **On Success:** Regain up to your **Proficiency** in Source Dice (still limited by your proficiency cap)  
 - **Out of Combat:** Automatically regain Source Dice equal to your proficiency every unstressed, unstrained hour  
 
-
 ---
 
 ## Hit Points
