@@ -47,7 +47,7 @@ Use this as your turn‑by‑turn cheat sheet for Sundered 5e.
 - **Spell Cost:** Core action + **spell level in SD** (+ up to **Proficiency** for scaling).
 - **Movement Trade:** **20 ft ⇒ 1 extra Core Action** or +effect.
 - **Replenishment (Combat):** Stressed check, Core action; DC 30 - Constitution Score. On success, regain SD up to proficiency.
-- **Scaling:** +1 SD ⇒ +1 die to damage/effect (**max Proficiency/round**).
+- **Scaling:** +1 SD ⇒ + damage/effect (**capped by proficiency**).
 </details>
 
 <details>
