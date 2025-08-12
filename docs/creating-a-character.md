@@ -72,13 +72,13 @@ All characters have a **Source Pool** of dice used to fuel abilities, attacks, a
 
 ## Replenishment
 
-- **Short Rest** (1+ hour, no combat/stress/strain): regain **half of missing SD** (rounded up).
-- **Long Rest** (4+ hours, no combat/stress/strain): regain **all missing SD**.
+You can restore Source through endurance and focus.
 
-| Rest Type   | Source Replenished        |
-|-------------|---------------------------|
-| Short Rest  | Half of missing Source Pool (rounded up) |
-| Long Rest   | All missing Source Pool    |
+- **Core Action:** DC = 30 − Constitution score  
+- **In Combat:** This is a stressed check  
+- **On Success:** Regain up to your **Proficiency** in Source Dice (still limited by your proficiency cap)  
+- **Out of Combat:** Automatically regain Source Dice equal to your proficiency every unstressed, unstrained hour  
+
 
 ---
 
