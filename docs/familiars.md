@@ -43,9 +43,9 @@ Familiars follow the **same rarity tiers** as items:
 
 ## Familiar Source
 
-- Familiars provide **Source Dice** based on their tier
-- This functions like a magical item’s Source pool
-- May be used for **abilities, techniques, or spellcasting**
+- Familiars provide **Source Capacity** based on their tier
+- This functions like a magical item
+- Expanded capacity be used for **abilities, techniques, or spellcasting**
 
 ---
 
