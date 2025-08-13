@@ -44,9 +44,9 @@ Play bold. Play creatively. This is your story. Let’s see how far you can push
 **3) Run the Intro Adventure**  
 - 👉 _First Adventure (1–2 hours)_ — shows ability targeting, counters, and risk/reward in play.  
   - `(/docs/first-adventure)` ← create this page with GM notes, map, and tokens.
-
-> Prefer to build from scratch? Start with **[Creating a Character](/docs/creating-a-character)**.
 */
+> Prefer to build from scratch? Start with **[Creating a Character](/docs/creating-a-character)**.
+
 ---
 
 ## After Your First Session
