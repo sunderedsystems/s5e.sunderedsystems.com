@@ -13,7 +13,7 @@ A **Natural Crit** occurs when you roll a **natural 20** on a d20 melee, ranged,
 
 - You may apply **one** critical effect from the **Critical Table** without spending from your CDB (Critical Damage Bank).
 - Roll a d20. Apply an effect within the tier rolled.
-    i.e. 1-5 = a Minor. 5-10 = Moderate. 10-15 = Severe 15-20 = Catastrophic.
+    >i.e. 1-5 = a Minor. 5-10 = Moderate. 10-15 = Severe 15-20 = Catastrophic.
 
 ### Defense Interaction
 
