@@ -36,15 +36,7 @@ Play bold. Play creatively. This is your story. Let’s see how far you can push
 **Download the Quickstart**  
 - 👉 **[Quickstart (Interactive)](./quickstart-interactive)** — concise rules to run your first session fast.  
 - 👉 **[Quickstart (Printable)](./quickstart-printable)** — single-page, open view for printing or saving as PDF.
-<!--
-**2) Grab a Pre‑Generated Character**  
-- 👉 _Pregens (PDF)_ — Tank, Striker, Controller, Support, Hybrid.  
-  - `(/docs/pregens)` ← create this page with 4–6 printable level‑1 sheets.
 
-**3) Run the Intro Adventure**  
-- 👉 _First Adventure (1–2 hours)_ — shows ability targeting, counters, and risk/reward in play.  
-  - `(/docs/first-adventure)` ← create this page with GM notes, map, and tokens.
--->
 > Prefer to build from scratch? Start with **[Creating a Character](/docs/creating-a-character)**.
 
 ---
