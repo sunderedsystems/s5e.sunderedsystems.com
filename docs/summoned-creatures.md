@@ -41,8 +41,6 @@ Summoned creatures act as your magical extensions on the battlefield. They inher
 - Allocate SD to each summoned creature during summoning. Each summons must retain 1 SD to remain active.
 - While any summons are active:
   - You **do not suffer empty pool penalties**
-  - You **cannot convert HP → SD** for yourself
-  - You **can** convert HP to SD for your summons
 
 ### Example
 
