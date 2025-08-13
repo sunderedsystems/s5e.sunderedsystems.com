@@ -2,49 +2,37 @@
 
 ## Magical Items
 
-Magical items are fonts of power—each has its own **internal Source pool**. They can fuel **abilities**, **techniques**, and **spells**, acting as external sources of energy beyond the character’s personal SD.
+Magical items store power—each has its own limit. They can then fuel **abilities**, **techniques**, and **spells**, acting as an expanded Source Pool.
 
 ---
 
 ## Attunement
 
-To use an item’s Source, a character must **attune** to it.
+To store source in an item, a character must **attune** to it.
 
 ### Attunement Time
 
-- Takes **1 day per SD** of the item
-- For each day of attunement: access **+1 SD**
+- Takes **1 day per SD Capacity** of the item
+- For each day of attunement: access **+1 SD capacity**
 
 ### Attunement Limit
 
-- A character may be attuned to magical items with a **combined SD pool no greater than their base SD**
+- A character may be attuned to magical items with a **combined SD capacity no greater than their base character Source**
 - This is **before** item bonuses or temporary boosts
 
 ---
 
-## Source Regeneration (Items)
+## Capacity (Items)
 
-- Regenerates **when unused**
-- **Using the item resets the timer**
-
-### Regeneration Pattern
-
-| Hours Unused | SD Regained |
-|--------------|-------------|
-| 1            | +1          |
-| 2            | +2          |
-| 3            | +4          |
-| 4            | +8          |
-| ...          | ...         |
-
-> This **doubling** continues until the item is full
+- Your maximum source limit is increased by how much an item can hold
+- When you Replenish, you may now gain Source Dice up to your combined personal reservoir + item capacity
 
 ---
 
 ## Using Item Source
 
-- Item SD can fuel any ability, spell, or technique **as if it were your own**
-- Item SD **regeneration is tracked separately**
+- Item SD can fuel any ability, spell, or technique
+- Item SD is tracked as part of your pool.
 - Makes magical items valuable for:
   - **Emergency surges**
   - **Prolonged encounters**
@@ -58,7 +46,7 @@ Crafting = investing Source, time, and materials to imbue power into an item.
 
 ### Crafting Commitment
 
-- Total SD committed = item’s final **Source pool**
+- Total SD committed = item’s final **capacity**
 - **1 SD = 1 day** of crafting
 - Multiple crafters can share commitment
 - If one person completes it alone, they are **fully attuned** at creation
@@ -94,8 +82,6 @@ Crafting = investing Source, time, and materials to imbue power into an item.
 
 - Items are activated using your choice of either Wisdom, Knowledge, or Influence.
 
-- If attuned to an item, checks made with the item use your modifier + proficiency.
-
 > Note: Common items do **not** require attunement.
 
 ---
@@ -130,7 +116,7 @@ Divine constructs, vastly powerful, change how Source scales.
 
 ## Item Rarity, Power
 
-| Rarity     | Colloquiality   | Found Where               | SD Pool    |
+| Rarity     | Colloquiality   | Found Where               | Capacity   |
 |------------|------------------|---------------------------|------------|
 | Common     | Typical           | Shops                     | +0        |
 | Uncommon   | Specialized       | Specialty shops           | +6 |
