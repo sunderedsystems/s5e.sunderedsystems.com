@@ -73,7 +73,6 @@ function HeroCTA() {
         background: 'var(--sw-bg)',        // same bone/dark bg as header
         padding: '1.5rem 0',
         textAlign: 'center',
-        borderTop: '1px solid var(--ifm-color-emphasis-200)',
       }}
     >
       <div className="container">
