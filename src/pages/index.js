@@ -68,13 +68,20 @@ function LogoWithBranding() {
 
 function HeroCTA() {
   return (
-    <div className="hero hero--primary" style={{padding: '3rem 0', textAlign: 'center'}}>
+    <div
+      style={{
+        background: 'var(--sw-bg)',        // same bone/dark bg as header
+        padding: '1.5rem 0',
+        textAlign: 'center',
+        borderTop: '1px solid var(--ifm-color-emphasis-200)',
+      }}
+    >
       <div className="container">
-        <h1 className="hero__title">Sundered 5e</h1>
-        <p className="hero__subtitle">One resource. Real agency. Play in minutes.</p>
-        <div style={{marginTop: '1rem'}}>
-          <Link className="button button--secondary button--lg" to="/docs/start-here">
-            🚀 Start Here
+        <h2 className="hero__title" style={{marginBottom: '0.25rem'}}>Sundered 5e</h2>
+        <p className="hero__subtitle" style={{marginTop: 0}}>Play in minutes.</p>
+        <div style={{marginTop: '0.75rem'}}>
+          <Link className="button button--primary button--lg" to="/docs/start-here">
+            Play Now
           </Link>
           <Link
             className="button button--outline button--lg"
@@ -88,3 +95,4 @@ function HeroCTA() {
     </div>
   );
 }
+
