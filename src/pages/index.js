@@ -80,16 +80,12 @@ function HeroCTA() {
         <h2 className="hero__title" style={{marginBottom: '0.25rem'}}>Sundered 5e</h2>
         <p className="hero__subtitle" style={{marginTop: 0}}>Play in minutes.</p>
         <div style={{marginTop: '0.75rem'}}>
-          <Link className="button button--primary button--lg" to="/docs/start-here">
-            Play Now
-          </Link>
-          <Link
-            className="button button--outline button--lg"
-            style={{marginLeft: '0.75rem'}}
-            to="/docs/quickstart-interactive"
-          >
-            Quickstart
-          </Link>
+       <Link className="sw-button" to="/docs/start-here">
+  Start Here
+</Link>
+<Link className="sw-button" style={{marginLeft: '0.75rem'}} to="/docs/quickstart-interactive">
+  Quickstart
+</Link>
         </div>
       </div>
     </div>
