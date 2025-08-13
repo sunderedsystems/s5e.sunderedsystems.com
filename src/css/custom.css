@@ -325,3 +325,34 @@ body,
   }
 }
 
+/* ---------- Sundered Buttons ---------- */
+.sw-button {
+  font-size: 1.08em;
+  font-weight: 700;
+  color: var(--sw-gold) !important;
+  background: var(--sw-purple) !important;
+  border: 2px solid var(--sw-gold) !important;
+  border-radius: 12px !important;
+  padding: 0.8em 1.6em !important;
+  display: inline-block;
+  text-decoration: none !important;
+  transition: background 0.18s, color 0.18s, border-color 0.18s;
+}
+.sw-button:hover,
+.sw-button:focus {
+  background: var(--sw-gold) !important;
+  color: var(--sw-purple) !important;
+  border-color: var(--sw-purple) !important;
+}
+
+[data-theme="dark"] .sw-button {
+  background: #18181b !important;
+  color: var(--sw-gold) !important;
+}
+[data-theme="dark"] .sw-button:hover,
+[data-theme="dark"] .sw-button:focus {
+  background: var(--sw-gold) !important;
+  color: #18181b !important;
+}
+
+
