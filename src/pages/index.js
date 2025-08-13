@@ -81,7 +81,7 @@ function HeroCTA() {
         <p className="hero__subtitle" style={{marginTop: 0}}>Play in minutes.</p>
         <div style={{marginTop: '0.75rem'}}>
        <Link className="sw-button" to="/docs/start-here">
-  Start Here
+  Play Now
 </Link>
 <Link className="sw-button" style={{marginLeft: '0.75rem'}} to="/docs/quickstart-interactive">
   Quickstart
