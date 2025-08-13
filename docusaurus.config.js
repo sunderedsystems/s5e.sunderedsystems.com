@@ -54,7 +54,7 @@ const config = {
       },
       items: [
         {
-          label: 's5e Rules',
+          label: 'Play Now',
           to: '/docs/start-here',
           position: 'left',
         },
