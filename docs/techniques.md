@@ -6,8 +6,8 @@ Characters develop signature techniques tied to their **ability scores**. These 
 
 ### Technique Proficiency
 
-- You **add proficiency** to all known techniques—even if not proficient in the related ability score.
 - These are specializations you’ve **mastered** and perform efficiently.
+- However, you **only** add proficiency to known techniques if proficient in the related ability score.
 
 ### Technique Capacity
 
