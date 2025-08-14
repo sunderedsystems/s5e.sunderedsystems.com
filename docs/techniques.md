@@ -181,10 +181,9 @@ Targeting follows all normal rules:
 
 | # of Spells | Penalty               |
 |-------------|------------------------|
-| 2+          | –3 to all stats (except spell stat) per extra spell |
-|             | –20ft movement per extra spell |
+| 2+          | –20ft movement per extra spell |
 
-> Stats cannot drop below 1  
+> Movement speed cannot be negative
 > If a spell would do so: it **fails**
 
 > Ending extra spells removes the penalties  
