@@ -118,6 +118,15 @@ Regain HP during downtime:
 
 Players may choose an Echelon, which affects your party dynamics and grants a powerful unique benefit. While not required, selecting an Echelon helps craft your character’s development and acts as a force multiplier to your class. Some players may prefer to avoid combat altogether or embrace a more fluid approach, unbound by archetype.
 
+**What it is:** Your approach to play. You pick **1 Echelon at character creation**. It modifies limits or grants bonuses.
+
+**What it does NOT change:** Your Source totals or Ability Scores.
+
+**When it matters:** Key moments in play where your Echelon affects the story’s outcome.
+
+**Changing Echelons:** This can be story driven, with consideration for how your character has grown. 
+
+
 ### Aegic
 **Unique Ability:** Adds proficiency twice to blocked damage.  
 *Role Example:* An Aegis Paladin may specialize in shielding allies and absorbing incoming attacks.
@@ -127,7 +136,7 @@ Players may choose an Echelon, which affects your party dynamics and grants a po
 *Role Example:* An Aurelic Sorcerer might specialize in enhancing allies' combat prowess and defenses.
 
 ### Ingenic
-**Unique Ability:** Adds proficiency bonus twice when crafting, repairing, or interacting with magical or technological items, including computers.  
+**Unique Ability:** Adds proficiency twice when crafting, repairing, or interacting with magical or technological items (non-attack/defense rolls), including computers.  
 *Role Example:* An Ingenic Rogue might specialize in deploying devices and managing tools mid-combat, or hacking into magical mainframes.
 
 ### Malefic
@@ -135,14 +144,12 @@ Players may choose an Echelon, which affects your party dynamics and grants a po
 *Role Example:* A Malefic Cleric might channel destructive divine energy to wipe out enemies.
 
 ### Myric
-**Unique Ability:** May choose to treat a normal check as a stressed check in order to gain proficiency, even if they are not normally proficient in the relevant discipline.  
+**Unique Ability:** May spend 2 Source Dice to treat an unstressed, non-combat check as a stressed check in order to gain proficiency, even if they are not normally proficient in the relevant discipline.  
 *Role Example:* A Myric Warlock might pick a lock or tame a horse, even if they’d never seen either.
 
 ### Vitalic
 **Unique Ability:** Adds proficiency twice to healing.  
 *Role Example:* A Reparative Druid might focus on restoring allies quickly during combat.
-
-
 
 ---
 
