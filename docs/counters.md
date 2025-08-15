@@ -33,8 +33,8 @@ If multiple people choose to counterspell, the first in initiative order makes t
 
 You may **block** incoming physical damage by:
 
-- Spending **2+ SD** (up to proficiency), or  
-- Spending **20ft of unspent movement**
+- Spending **1+ SD** (up to proficiency), or  
+- Spending **10ft or more of unspent movement**
 
 ### Block Steps
 
@@ -47,7 +47,7 @@ You may **block** incoming physical damage by:
 
 > **Magic damage** may only be blocked using **magical weapons or shields**
 
-### Dig In (during Block)
+### Dig In (Block or Parry)
 
 Spend **10ft movement = –1 damage** reduction
 
