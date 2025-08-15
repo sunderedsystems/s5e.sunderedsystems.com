@@ -176,8 +176,9 @@ On your turn:
 
 You may **hold** an Action by specifying a **clear trigger** (e.g. "If a creature enters my range").
 
-- You **do not** pre-commit Source Dice.
-- When triggered, you resolve the action immediately.
+-You may hold an action *and* take your turn normally.
+- You **do not** pre-commit Source Dice for held actions.
+- When triggered, resolve the action immediately, committing necessary resources.
 - If resolving it would exceed your SD proficiency cap, it becomes a **stressed** task.
 - If you do not have the resources when the trigger occurs, the Action is not triggered.
 - If the trigger **never occurs**, you **lose nothing**.
