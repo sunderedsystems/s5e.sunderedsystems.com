@@ -11,10 +11,10 @@ A counterspell resolves first, then block, then parry, then non-action.
 If multiple people choose to counterspell, the first in initiative order makes the first check. 
 
 >Example: The party is targeted by a successful damaging area of effect spell.
-> One player chooses to counterspell. Another Chooses to block with their magic shield. The third chooses to accept the hit.
-> The counterspell fails. 
-> The blocker commits SD, then rolls to reduce the incoming damage.
-> The third takes damage normally.
+- One player chooses to counterspell. Another Chooses to block with their magic shield. The third chooses to accept the hit.
+- The counterspell fails. 
+- The blocker commits SD, then rolls to reduce the incoming damage.
+- The third takes damage normally.
 
 ---
 
