@@ -46,6 +46,7 @@ At creation, players get **27 points** to distribute among the six abilities.
 
 ## Ability Score Increase
 
+- After choosing an **Echelon**, characters gain 2 more ability points to distribute without penalty over 15.
 - **Every even-numbered level** (including 20), gain **+1 ability point**.
 - Scores may exceed 20 **after** creation, but:
   - Every point above 20 must be offset by lowering another score by 1.
@@ -113,6 +114,38 @@ Regain HP during downtime:
 
 ---
 
+## Echelon System
+
+Players may choose an Echelon, which affects your party dynamics and grants a powerful unique benefit. While not required, selecting an Echelon helps craft your character’s development and acts as a force multiplier to your class. Some players may prefer to avoid combat altogether or embrace a more fluid approach, unbound by archetype.
+
+### Aegic
+**Unique Ability:** Adds proficiency twice to blocked damage.  
+*Role Example:* An Aegis Paladin may specialize in shielding allies and absorbing incoming attacks.
+
+### Aurelic
+**Unique Ability:** Can concentrate on 2 spells before incurring the multiple concentration penalty.  
+*Role Example:* An Aurelic Sorcerer might specialize in enhancing allies' combat prowess and defenses.
+
+### Ingenic
+**Unique Ability:** Adds proficiency bonus twice when crafting, repairing, or interacting with magical or technological items, including computers.  
+*Role Example:* An Ingenic Rogue might specialize in deploying devices and managing tools mid-combat, or hacking into magical mainframes.
+
+### Malefic
+**Unique Ability:** Adds proficiency twice when dealing damage.  
+*Role Example:* A Malefic Cleric might channel destructive divine energy to wipe out enemies.
+
+### Myric
+**Unique Ability:** May choose to treat a normal check as a stressed check in order to gain proficiency, even if they are not normally proficient in the relevant discipline.  
+*Role Example:* A Myric Warlock might pick a lock or tame a horse, even if they’d never seen either.
+
+### Vitalic
+**Unique Ability:** Adds proficiency twice to healing.  
+*Role Example:* A Reparative Druid might focus on restoring allies quickly during combat.
+
+
+
+---
+
 ## Core Actions (CA)
 
 - Each turn, you gain **1 free Core Action**.
@@ -163,6 +196,7 @@ If you **exceed your SD proficiency cap** in a round, your next check becomes a 
 - **Strained DC** = +1 per missing SD **at the moment of the check**.
 
 > Example:  
+> Your proficiency is +2.
 > You have 6 SD total, already spent 2 this round, and have 4 SD remaining.  
 > You commit 3 more SD (over cap) to counter a spell.  
 > Since 2 SD are missing, DC is increased by +2.
