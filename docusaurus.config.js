@@ -89,7 +89,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/sunderedhttps://discord.gg/wMJ2xjb6',
+                href: 'https://discord.gg/ywhsncnf2S',
               },
               {
                 label: 'TikTok',
