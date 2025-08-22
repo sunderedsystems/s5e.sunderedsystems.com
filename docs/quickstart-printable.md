@@ -61,9 +61,9 @@ Use this as your turn-by-turn cheat sheet for Sundered 5e.
 ---
 
 ## 3 Ways to Push Your Limits
-- **HP ⇒ Source** — Trade vitality for power at the critical moment.  
+- **Movement ⇒ Source** — Trade movement for power at a critical moment.  
 - **Movement ⇒ Action** — Turn positioning into immediate offense or defense.  
-- **Extra SD for Scaling** — Overpower a hit or extend a spell’s effect/duration.
+- **Extra SD for Scaling** — Overpower a hit or extend a spell’s damage/effect.
 
 ---
 
