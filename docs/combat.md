@@ -106,9 +106,10 @@ When you spend SD for a **damage action** (e.g., using 2 SD instead of Core Acti
 
 After paying the base attack cost, you may spend **extra SD** to:
 
-- **Increase damage**
 - **Enhance effects**
+- **Increase damage**
 - **Increase #targets**
+- **Increase range (ranged weapons only)**
 
 > SD spent must be **declared before the roll**  
 > Miss = SD is still **lost**
