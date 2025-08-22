@@ -10,7 +10,6 @@ In Ascended play (beyond level 20), a character gains the core feature of any ne
 
 ### Barbarian: Frenzy
 
-- Spend extra SD up to your Proficiency each turn while raging (does not bypass stress/strain effects of exceeding proficiency cap within a round)
 - Can’t die while raging. If reduced to 0 HP, spend 1 SD per round to stay up. Rage ends after encounter or when SD is empty.
 
 ---
