@@ -104,7 +104,7 @@ When you spend SD for a **damage action** (e.g., using 2 SD instead of Core Acti
 
 ## Source Scaling
 
-After paying the base attack cost, you may spend **extra SD** (up to proficiency) to:
+After paying the base attack cost, you may spend **extra SD** to:
 
 - **Increase damage**
 - **Enhance effects**
@@ -118,7 +118,7 @@ After paying the base attack cost, you may spend **extra SD** (up to proficiency
 
 You must **commit** SD before rolling to attack or counter:
 
-- Declare how many SD you spend (up to your proficiency)
+- Declare how much Source (or Movement) you spend
 - On success: resolve as normal
 - On failure: SD are **lost**
 
