@@ -85,7 +85,7 @@
 ---
 
 ## Time Stop  
-**Target:** Untargeted, Stressed  
+**Target:** Untargeted
 **Effect:** You exit the time stream. You may pull other items or creatures into the time stream by performing either an untargeted spell check or a spell check targeting a creature’s constitution. If you fail the check, you are pulled back into time in an unoccupied space near the target. If you take damage while outside of time, you must make a stressed untargeted Constitution check. If you fail, you reenter the time stream at the nearest unoccupied space. You cannot die while outside of time, regardless of how much damage you take. If you fall unconscious, you reenter the time stream.  
 **Duration:** Concentration  
 **Scaling (SD):** +1 SD = +1 target when exiting time stream
