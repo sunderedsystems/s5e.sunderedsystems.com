@@ -114,7 +114,7 @@ Anyone can cast spells using **Influence**, **Knowledge**, or **Wisdom**.
 
 ### Base Spell Damage
 
-> **Spell Damage = Spellcasting Modifier + Proficiency (if proficient) + SD spent to cast**
+> **Spell Damage = Spellcasting Modifier + Proficiency (if proficient) + SD cost**
 
 **Examples**:  
 - Cantrip: Modifier + Proficiency  
@@ -135,22 +135,6 @@ You may spend **extra SD** to:
 > Exceeding your cap = **strained check** (+1 DC per missing SD)
 
 > Cantrips may scale as well
-
----
-
-## Spell Movement Scaling
-
-### Arcane Advantage
-
-Sacrifice **10ft of movement** to gain:
-
-- +1 damage  
-- +10ft area/range
-- +1 target  
-
-
-> Movement must be committed **before casting**  
-> Also increases counterspell cost by +1 SD per 10ft
 
 ---
 
