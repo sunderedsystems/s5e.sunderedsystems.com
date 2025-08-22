@@ -108,6 +108,7 @@ After paying the base attack cost, you may spend **extra SD** to:
 
 - **Increase damage**
 - **Enhance effects**
+- **Increase #targets**
 
 > SD spent must be **declared before the roll**  
 > Miss = SD is still **lost**
@@ -135,8 +136,6 @@ You may spend unspent movement to reduce physical damage:
 > –1 damage per **10ft** spent
 
 > Spells that affect movement may boost these 
-
-(see also: *Arcane Advantage*)
 
 ---
 
