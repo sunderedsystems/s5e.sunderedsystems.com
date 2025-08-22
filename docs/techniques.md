@@ -103,8 +103,8 @@ Anyone can cast spells using **Influence**, **Knowledge**, or **Wisdom**.
   - SD = spell level (or equivalent cost like movement)
 - Exceeding proficiency cap by level = **strained** spell
 
-> Casting a 3rd-level spell at Proficiency +2 = +1 DC for Strain.
-> The total increase to the DC is +4 (+3 for 3rd level spell and +1 for Strain)
+> Example: Casting a 3rd-level spell with Proficiency +2 → DC increases by **+4**  
+> (+3 for spell level, +1 for Strain)
 
 - Only **spells of a level (1-9)** count toward the proficiency cap
 - **Spells do not level up** (a level 1 spell is always level 1) —they scale via SD
