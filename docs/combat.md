@@ -122,7 +122,7 @@ You must **commit** SD before rolling to attack or counter:
 
 - Declare how much Source (or Movement) you spend
 - On success: resolve as normal
-- On failure: SD are **lost**
+- On failure: SD (or Movement) are **lost**
 
 ---
 
