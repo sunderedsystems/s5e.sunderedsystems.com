@@ -32,7 +32,7 @@
 ---
 
 ## Clone  
-**Target:** Untargeted, Stressed  
+**Target:** Untargeted
 **Effect:** You create a duplicate body that awakens if you die, restoring you with full HP and no equipment. The Clone remains dormant otherwise.  
 **Duration:** Until used  
 **Scaling (SD):** +1 SD = +1 clone (+1 stress)
@@ -40,7 +40,7 @@
 ---
 
 ## Control Weather  
-**Target:** Untargeted, stressed  
+**Target:** Untargeted
 **Effect:** Immediately changes the weather over a large area (up to 8-mile radius) based on caster's intent.  
 **Duration:** concentration  
 **Scaling (SD):** none
