@@ -54,11 +54,10 @@ You succeed if the total equals or exceeds the **Difficulty Check (DC)**.
 
 ## Proficiency Cap
 
-- The **Proficiency Cap (PC)** is the **maximum SD** you can spend on a single action (attack, counter, spell, etc.)
-- The Proficiency Cap is also the maximum amount of SD you can spend on your turn.
-- Exceeding the cap within a Round makes the check a **strained action** (see *Stress & Strain*).
+- The **Proficiency Cap (PC)** is the **limit** you can spend on a single action before incurring **Strain** (attack, spell, counterspell, etc.)
+- Exceeding the cap makes the check a **Strained Action** (see *Stress & Strain*).
   
-    e.g. You spent SD up to your cap on your turn, but spend on a Counterspell outside of your turn; the difficulty check increases.
+    e.g. Your proficiency is +2. You spend a Core Action + 3SD to cast a 3rd level spell. This increases the difficulty check by +1.
 
 - **Crafting** is exempt from this cap.
 
@@ -131,6 +130,7 @@ Two creatures directly oppose each other in an action (like gaining control of a
   - When you have advantage on a check, roll two d20 and take the higher result.
 
   - When you have disadvantage, roll two d20 and take the lower result.
+
 ---
 
 ## Disciplines
