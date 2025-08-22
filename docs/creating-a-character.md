@@ -73,12 +73,7 @@ All characters have a **Source Pool** of dice used to fuel abilities, attacks, a
 
 ## Replenishment
 
-You can restore Source through endurance and focus.
-
-- **Core Action:** DC = 30 − Constitution score  
-- **In Combat:** This is a stressed check  
-- **On Success:** Regain up to your **Proficiency** in Source Dice (still limited by your proficiency cap)  
-- **Out of Combat:** Automatically regain Source Dice equal to your proficiency every unstressed, unstrained hour  
+**Out of Combat:** Automatically regain Source Dice equal to your proficiency every unstressed, unstrained hour  
 
 ---
 
@@ -110,7 +105,7 @@ Regain HP during downtime:
 | 2 SD → 20ft Movement   | Spend 2 Source Dice for 20ft      |
 | 20ft ⇄ 1 Core Action   | Exchange freely                   |
 
-> **Note:** You **cannot** convert Core Actions or movement into SD.
+- **When you spend a Core Action + Movement, the Movement is converted into *Source*.**
 
 ---
 
@@ -166,15 +161,17 @@ Players may choose an Echelon, which affects your party dynamics and grants a po
 ## Turns
 
 On your turn:
-- You may spend **SD up to your proficiency bonus**.
+- You may spend **all your Source**
 - You may use **all your movement**.
 - Your turn ends when you've used all resources or you choose to pass.
+
+> **Note:** It is important to manage your Source over the course of an encounter, as expending it all on one turn can leave one vulnerable.
 
 ---
 
 ## Hold Action
 
-You may **hold** an Action by specifying a **clear trigger** (e.g. "If a creature enters my range").
+You may **hold** an Action or Reaction by specifying a **clear trigger** (e.g. "If a creature enters my range").
 
 -You may hold an action *and* take your turn normally.
 - You **do not** pre-commit Source Dice for held actions.
@@ -193,22 +190,6 @@ You may **hold** an Action by specifying a **clear trigger** (e.g. "If a creatur
 - For every **missing SD**, add **+1 DC** to stressed actions.
 - **Stressed DC** = +1 per missing SD **at the moment of the check**.
 
-> Some spells are stressed by nature (even outside combat).
-
----
-
-### Strain
-
-If you **exceed your SD proficiency cap** in a round, your next check becomes a **strained** check.
-
-- **Strained DC** = +1 per missing SD **at the moment of the check**.
-
-> Example:  
-> Your proficiency is +2.
-> You have 6 SD total, already spent 2 this round, and have 4 SD remaining.  
-> You commit 3 more SD (over cap) to counter a spell.  
-> Since 2 SD are missing, DC is increased by +2.
-
 | Missing SD | DC Increase |
 |------------|-------------|
 | 1          | +1          |
@@ -216,6 +197,19 @@ If you **exceed your SD proficiency cap** in a round, your next check becomes a 
 | 3          | +3          |
 | ...        | ...         |
 
-> **Ascended Play (Level 21+)**: Stress/Strain is reduced to +1 DC per **2 missing SD** (see *Ascended Resilience*).
+> **Ascended Play (Level 21+)**: Stress is reduced to +1 DC per **2 missing SD** (see *Ascended Resilience*).
+
+---
+
+### Strain
+
+If you **exceed your SD proficiency cap** on a technique or ability, your check becomes a **strained** check.
+
+- **Strained DC** = +1 per Source beyond the proficiency cap.
+
+> Example:  
+> Your proficiency is +2.
+> You commit 3 SD (exceeding the proficiency cap) to counter a spell.  
+> DC is increased by +1.
 
 ---
