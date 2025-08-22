@@ -97,7 +97,7 @@
 
 ## Incendiary Cloud  
 **Target:** Agility  
-**Effect:** Create heavily obscured 20ft radius cloud of smoke and fire, spreads around objects. Creatures within take base spell damage + 4SD at start of turn or when entering area. Cloud can be moved mentally by using the caster’s movement speed.  
+**Effect:** Create heavily obscured 20ft radius cloud of smoke and fire, spreads around objects. Creatures within take base spell damage at start of turn or when entering area. Cloud can be moved mentally by using the caster’s movement speed.  
 **Range:** 50ft  
 **Duration:** concentration  
 **Scaling (SD):** +1 SD = +damage, +radius
