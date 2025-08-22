@@ -196,8 +196,8 @@ Targeting follows all normal rules:
 |-------------|------------------------|
 | 2+          | –20ft movement/round per extra spell
 
-> Movement cannot be negative
-> If a spell would do so: it **fails**
+- Movement cannot be negative
+- If a spell would do so: it **fails**
 
 > Ending extra spells removes the penalties  
 > Movement returns at start of next turn
