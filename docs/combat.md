@@ -133,7 +133,7 @@ If you hit with a melee attack, you may spend unused movement:
 > +1 damage per **10ft** spent
 
 **Dig In**  
-You may spend unspent movement to reduce physical damage:  
+You may spend unspent movement to reduce damage:  
 > –1 damage per **10ft** spent
 
 > Spells that affect movement may boost these 
