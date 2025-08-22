@@ -94,8 +94,6 @@ Divine constructs, vastly powerful, change how Source scales.
 
 - **Source Pool**: 20d20 or more committed during crafting.
 - **Effect**: Increases your **base SD by your level**
-- You may spend SD **up to your character level per turn** (instead of up to proficiency)
-  - Exceeding the proficiency cap within a round still causes **strain**
 
 ### Limits & Requirements
 
