@@ -109,7 +109,7 @@ After paying the base attack cost, you may spend **extra SD** to:
 - **Enhance effects**
 - **Increase damage**
 - **Increase #targets**
-- **Increase range (ranged weapons only)**
+- **Increase range (for ranged weapons/spells)**
 
 > SD spent must be **declared before the roll**  
 > Miss = SD is still **lost**
