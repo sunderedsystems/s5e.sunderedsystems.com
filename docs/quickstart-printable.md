@@ -35,7 +35,7 @@ Use this as your turn-by-turn cheat sheet for Sundered 5e.
 - **Spend Source / Movement** — Take Core Actions, enhance attacks, or boost spells.
 - **Roll Check** — d20 + Ability Mod (+ Proficiency if proficient) vs target’s relevant ability score.
 - **Resolve Outcome** — Deal base damage (**Ability Mod + Proficiency**) plus any SD committed.
-- **React / Counter** — Spend SD to block, parry, dodge, or counterspell.
+- **React / Counter** — Spend SD to block, parry, or counterspell.
 
 ---
 
