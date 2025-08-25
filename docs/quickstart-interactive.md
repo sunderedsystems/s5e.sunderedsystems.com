@@ -13,7 +13,7 @@ sidebar_label: Quickstart
 ## Character Basics
 
 **Create Your Character:**
-- Assign ability scores: Strength, Agility, Constitution, Knowledge, Wisdom, Influence (start at 8, distribute 27 points, max score 20).
+- Assign ability scores: Strength, Agility, Constitution, Knowledge, Wisdom, Influence
 - Pick 2 abilities to be proficient in.
 - Choose an Echelon (optional, but unlocks unique powers).
 - Choose a Class for your core feature and two proficiencies.
