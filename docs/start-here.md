@@ -40,7 +40,9 @@ Whether you’re running a one-shot tonight or jumping straight into a campaign,
 
 **Download the Quickstart**  
 - 👉 **[Quickstart (Interactive)](./quickstart-interactive)** — concise rules to run your first session fast.  
-- 👉 **[Quickstart (Printable)](./quickstart-printable)** — single-page, open view for printing or saving as PDF.
+- <a className="sw-button--primary button--lg" href="/img/quickstartdownload.pdf">
+  ⬇️ Download the Quickstart (PDF)
+  </a>
 
 > Prefer to build from scratch? Start with **[Creating a Character](/docs/creating-a-character)**.
 
