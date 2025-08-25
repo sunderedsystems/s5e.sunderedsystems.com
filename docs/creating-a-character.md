@@ -150,10 +150,9 @@ Players may choose an Echelon, which affects your party dynamics and grants a po
 
 ## Core Actions (CA)
 
-- Each turn, you gain **1 free Core Action**.
 - Core Actions include attacks, spellcasting, and d20-based checks.
 - Some actions cost **1 CA + additional SD**.
-- Equivalencies:
+- To take a Core Action:
   - 1 CA = 2 SD = 20ft movement = 10ft + 1 SD
 
 ---
@@ -176,7 +175,7 @@ You may **hold** an Action or Reaction by specifying a **clear trigger** (e.g. "
 -You may hold an action *and* take your turn normally.
 - You **do not** pre-commit Source Dice for held actions.
 - When triggered, resolve the action immediately, committing necessary resources.
-- If resolving it would exceed your SD proficiency cap, it becomes a **stressed** task.
+- If resolving it would exceed your SD proficiency cap, it becomes a **Strained** check.
 - If you do not have the resources when the trigger occurs, the Action is not triggered.
 - If the trigger **never occurs**, you **lose nothing**.
 
