@@ -8,7 +8,6 @@ module.exports = {
       items: [
        'start-here',
        'quickstart-interactive',
-       'quickstart-printable',
       ],
     },
 
