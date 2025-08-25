@@ -65,8 +65,8 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://s5e.sunderedsystems.com',
-            label: 'Sundered 5e',
+            href: 'https://core.sunderedsystems.com',
+            label: 'Sundered Core',
             position: 'right',
           },
            {
