@@ -20,7 +20,7 @@ sidebar_label: Quickstart
 - Pick Disciplines tied to abilities.
 
 **Know Your Pools:**
-- **Source Pool**: Fuels everything. Starts at 6d6; increases at higher levels.
+- **Source Dice (SD)**: Fuels everything. Starts at 6d6; increases at higher levels.
 - **Hit Points**: Based on your Source pool (ex: 8d8 = 64 HP).
 - **Movement**: 50ft of movement (base for characters 4-6ft height)
 - **Proficiency**: Sets how many SD you can spend without Strain (Proficiency Cap).
