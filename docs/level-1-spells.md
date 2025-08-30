@@ -98,7 +98,7 @@
 ---
 
 ## Cure Wounds  
-**Target:** Agility  
+**Target:** Untargeted
 **Effect:** Target regains hit points equal to the caster’s proficiency + modifier + SD.  
 **Range:** Touch  
 **Duration:** Instant  
