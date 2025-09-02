@@ -2,7 +2,7 @@
 
 ## The Echelon System
 
-Choose an Echelon, which affects your party dynamics and grants a powerful unique benefit. Your Echelon helps craft your character’s development and acts as a force multiplier to your class. 
+Choose an Echelon, which affects your party dynamics and grants a powerful unique benefit. Your Echelon helps craft your character’s development and acts as a force multiplier to your techniques.
 
 **What it is:** Your approach to play. You pick **1 Echelon at character creation**. It modifies limits or grants bonuses.
 
