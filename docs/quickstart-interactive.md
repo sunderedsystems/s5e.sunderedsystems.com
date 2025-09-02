@@ -44,26 +44,26 @@ Use this as your turn‑by‑turn cheat sheet for Sundered 5e.
 - **Core Action**: Spend 2SD, 20ft Movement, or 1SD + 10ft Movement to Attack, Cast, or special
 - **Spell Cost:** Core action + **spell level in SD**
 - - **Scaling:** +1 SD **or** 10ft Movement ⇒ + damage/effect 
-- **Replenishment (Combat):** Out of Combat: Automatically regain Source Dice equal to your proficiency every unstressed, unstrained hour
+- **Replenishment (Combat):** Out of Combat: Automatically regain Source Dice equal to your proficiency every unstressed hour.
 </details>
 
 <details>
   <summary><strong>Example Turn</strong></summary>
 
-- **On her turn:** Vera the Ranger moves 30ft and uses her Core Action to melee attack (Agility vs target’s Agility).
-She spends 2 SD to make an extra Core Action: attack, and commits +1 SD to boost its damage.
+- **On her turn:** Vera the Ranger moves 30ft and spends her last 20ft of Movement on a Core Action to melee attack (Agility vs target’s Agility).
+She spends 2 Source Dice to make annother Core Action: attack, and commits +1 SD to boost its damage.
 
 - **Outside her turn:** An enemy casts a level 1 spell targeting her Constitution.
-She spends 20ft of movement and 1 SD to roll a counterspell check, adding her Knowledge + Proficiency vs the caster’s roll.
-She fails the check but rolls 1 SD to block some of the incoming damage.
+She spends 3SD to roll a counterspell check, adding her Knowledge + Proficiency vs the caster’s roll.
+She fails the check but the damage is reduced by +1 from her Strength Modifier.
 </details>
 
 <details>
   <summary><strong>3 Ways to Push Your Limits</strong></summary>
 
-- **Movement ⇒ Source** — Trade movement for power at a critical moment.  
 - **Movement ⇒ Action** — Turn positioning into immediate offense or defense.  
-- **Extra SD for Scaling** — Overpower a hit or extend a spell’s damage/effect.
+- **Movement ⇒ Source** — Trade movement for power at a critical moment.  
+- **Extra SD for Scaling** — Overpower a hit or extend a spell’s damage/range/targets/effects.
 </details>
 
 <details>
