@@ -149,7 +149,9 @@ Regain HP during downtime:
 - Core Actions include attacks, spellcasting, and d20-based checks.
 - Some actions cost **1 CA + additional SD**.
 - To take a Core Action:
-  - 1 CA = 2 SD = 20ft movement = 10ft + 1 SD
+  -  20ft movement = 1 CA
+  -  2 SD = 1 CA
+  -  10ft + 1 SD = 1CA
 
 ---
 
