@@ -5,8 +5,8 @@
 ### Base Movement
 
 - Characters between 4ft and 6ft tall: **50ft per round**
-- For every **+1 Agility modifier**: +10ft
-- For every **–1 Agility modifier**: –10ft
+- For every **+1 Constitution modifier**: +5ft
+- For every **–1 Constitution modifier**: –5ft
 
 ---
 
