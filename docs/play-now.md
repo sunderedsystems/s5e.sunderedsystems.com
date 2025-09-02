@@ -2,6 +2,7 @@
 id: play-now
 title: New? Start Here
 sidebar_label: Start Here
+slug: /play-now
 ---
 
 # Welcome to Sundered Systems
@@ -40,8 +41,6 @@ Whether you’re running a one-shot tonight or jumping straight into a campaign,
 **Download the Quickstart**  
 - 👉 **[Quickstart (Interactive)](./quickstart-interactive)** — concise rules to run your first session fast.  
 - [⬇️ Download the Quickstart (PDF)](/img/quickstartdownload.pdf)
-  
-  </a>
 
 > Prefer to build from scratch? Start with **[Creating a Character](/docs/creating-a-character)**.
 
