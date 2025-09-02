@@ -50,7 +50,7 @@ Whether you’re running a one-shot tonight or jumping straight into a campaign,
 
 ## After Your First Session
 
-- **Learn the full engine:** [Welcome / SRD Index](./start-here)  
+- **Learn the full engine:** [Getting Started / SRD Index](./creating-a-character)  
 - **Combat & counters:** [Combat](./combat) • [Counters](./counters)  
 - **Magic & techniques:** [Techniques](./techniques) • [Spells by Level](./level-1-spells)  
 - **Creatures & companions:** [Familiars](./familiars) • [Pets](./pets) • [Summons](./summoned-creatures)  
