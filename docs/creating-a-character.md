@@ -1,24 +1,59 @@
 # Core Rules: Creating a Character
 
+## The Echelon System
+
+Choose an Echelon, which affects your party dynamics and grants a powerful unique benefit. Your Echelon helps craft your character’s development and acts as a force multiplier to your class. 
+
+**What it is:** Your approach to play. You pick **1 Echelon at character creation**. It modifies limits or grants bonuses.
+
+**What it does NOT change:** Your Source totals or Ability Scores.
+
+**When it matters:** Key moments in play where your Echelon affects the story’s outcome.
+
+**Changing Echelons:** This can be story driven, with consideration for how your character has grown. 
+
+
+### Aegic
+**Unique Ability:** Adds proficiency twice to blocked damage.  
+*Role Example:* An Aegis Paladin may specialize in shielding allies and absorbing incoming attacks.
+
+### Aurelic
+**Unique Ability:** Can concentrate on 2 spells before incurring the multiple concentration penalty.  
+*Role Example:* An Aurelic Sorcerer might specialize in enhancing allies' combat prowess and defenses.
+
+### Ingenic
+**Unique Ability:** Adds proficiency twice when crafting, repairing, or interacting with magical or technological items (non-attack/defense rolls), including computers.  
+*Role Example:* An Ingenic Rogue might specialize in deploying devices and managing tools mid-combat, or hacking into magical mainframes.
+
+### Malefic
+**Unique Ability:** Adds proficiency twice when dealing damage.  
+*Role Example:* A Malefic Cleric might channel destructive divine energy to wipe out enemies.
+
+### Myric
+**Unique Ability:** May spend 2 Source Dice to treat an unstressed, non-combat check as a stressed check in order to gain proficiency, even if they are not normally proficient in the relevant discipline.  
+*Role Example:* A Myric Warlock might pick a lock or tame a horse, even if they’d never seen either.
+
+### Vitalic
+**Unique Ability:** Adds proficiency twice to healing.  
+*Role Example:* A Reparative Druid might focus on restoring allies quickly during combat.
+
+---
+
 ## Ability Scores
 
-Characters have 6 Ability Scores. These scores snapshot every creature's physical and mental characteristics:
+Characters have 6 Ability Scores. These scores snapshot every creature's core characteristics and affect the three main rolls of the game: ability checks, attack rolls, and counters.
 
-- **Agility** – freedom of movement  
-- **Strength** – physical power  
-- **Constitution** – stamina  
-- **Wisdom** – awareness and insight  
-- **Knowledge** – memory and perception  
-- **Influence** – impact of presence  
-
-These scores affect the three main rolls of the game: ability checks, attack rolls, and counters.
+- **Strength** provides passive damage absorption and can be used for melee/ranged attacks.
+- **Agility** provides passive dodge and can be used for melee/ranged attacks and parry.
+- **Constitution** is used for concentration and endurance checks. It also affects your available Movement and modifies your Hit Points after level 17.
+- **Wisdom, Knowledge, and Influence** are used for spellcasting and social checks. 
 
 ## Ability Scores and Modifiers
 
 All characters begin with **8 in every ability score**.
 
 At creation, players get **27 points** to distribute among the six abilities.  
-- No score may exceed **20** at character creation.  
+- No score may exceed **20** at level 1.  
 - **Raising a score above 15 costs 2 points per increment.**
 
 ### Point Costs
@@ -46,12 +81,11 @@ At creation, players get **27 points** to distribute among the six abilities.
 
 ## Ability Score Increase
 
-- After choosing an **Echelon**, characters gain 2 more ability points to distribute without penalty over 15.
 - **Every even-numbered level** (including 20), gain **+1 ability point**.
-- Scores may exceed 20 **after** creation, but:
-  - Every point above 20 must be offset by lowering another score by 1.
+- Scores may exceed 20 **after** level 1, but:
+  - Every 2 points above 20 must be offset by lowering another score by 1.
 
-> Example: If Knowledge is 20 and Influence is 13, raising Knowledge to 21 means lowering Influence to 12 (or any other stat by 1).
+> Example: If Knowledge is 21 and Influence is 13, raising Knowledge to 22 means lowering Influence to 12 (or any other stat by 1).
 
 ---
 
@@ -109,45 +143,6 @@ Regain HP during downtime:
 
 ---
 
-## Echelon System
-
-Players may choose an Echelon, which affects your party dynamics and grants a powerful unique benefit. While not required, selecting an Echelon helps craft your character’s development and acts as a force multiplier to your class. Some players may prefer to avoid combat altogether or embrace a more fluid approach, unbound by archetype.
-
-**What it is:** Your approach to play. You pick **1 Echelon at character creation**. It modifies limits or grants bonuses.
-
-**What it does NOT change:** Your Source totals or Ability Scores.
-
-**When it matters:** Key moments in play where your Echelon affects the story’s outcome.
-
-**Changing Echelons:** This can be story driven, with consideration for how your character has grown. 
-
-
-### Aegic
-**Unique Ability:** Adds proficiency twice to blocked damage.  
-*Role Example:* An Aegis Paladin may specialize in shielding allies and absorbing incoming attacks.
-
-### Aurelic
-**Unique Ability:** Can concentrate on 2 spells before incurring the multiple concentration penalty.  
-*Role Example:* An Aurelic Sorcerer might specialize in enhancing allies' combat prowess and defenses.
-
-### Ingenic
-**Unique Ability:** Adds proficiency twice when crafting, repairing, or interacting with magical or technological items (non-attack/defense rolls), including computers.  
-*Role Example:* An Ingenic Rogue might specialize in deploying devices and managing tools mid-combat, or hacking into magical mainframes.
-
-### Malefic
-**Unique Ability:** Adds proficiency twice when dealing damage.  
-*Role Example:* A Malefic Cleric might channel destructive divine energy to wipe out enemies.
-
-### Myric
-**Unique Ability:** May spend 2 Source Dice to treat an unstressed, non-combat check as a stressed check in order to gain proficiency, even if they are not normally proficient in the relevant discipline.  
-*Role Example:* A Myric Warlock might pick a lock or tame a horse, even if they’d never seen either.
-
-### Vitalic
-**Unique Ability:** Adds proficiency twice to healing.  
-*Role Example:* A Reparative Druid might focus on restoring allies quickly during combat.
-
----
-
 ## Core Actions (CA)
 
 - Core Actions include attacks, spellcasting, and d20-based checks.
@@ -181,7 +176,7 @@ You may **hold** an Action or Reaction by specifying a **clear trigger** (e.g. "
 
 ---
 
-## Stress & Strain
+## Stress
 
 ### Stress
 
@@ -197,18 +192,5 @@ You may **hold** an Action or Reaction by specifying a **clear trigger** (e.g. "
 | ...        | ...         |
 
 > **Ascended Play (Level 21+)**: Stress is reduced to +1 DC per **2 missing SD** (see *Ascended Resilience*).
-
----
-
-### Strain
-
-If you **exceed your SD proficiency cap** on a technique or ability, your check becomes a **strained** check.
-
-- **Strained DC** = +1 per Source beyond the proficiency cap.
-
-> Example:  
-> Your proficiency is +2.
-> You commit 3 SD (exceeding the proficiency cap) to counter a spell.  
-> DC is increased by +1.
 
 ---
