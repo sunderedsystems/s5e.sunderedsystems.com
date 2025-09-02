@@ -61,6 +61,8 @@ You have 12 SD and summon two creatures:
 ## Replenishment & Redistribution
 
 - **Only the summoner** regains SD via Replenishment
+- Replenishment **cannot** exceed your Source Pool
+- While your summons are Active, your Source Pool is not considered empty
 - You may **manually transfer or redistribute SD** to your summons on your turn by using a Core Action or Equivalent
 
 > Example: You regain 6 SD → You choose how much to allocate to summons
@@ -138,7 +140,7 @@ Summons use the **character’s proficiency** for all combat rolls (unless comma
 - Can suffer **status effects** (fear, poison, paralysis)
 
 If targeted or affected:
-- Use **your spellcasting score**, and proficiency
+- Use **your** spellcasting score and spellcasting proficiency
 
 ---
 
@@ -149,7 +151,7 @@ Unless commanded:
 - Use your **proficiency** for all rolls (roll a d20 + your proficiency)
 - **Base damage = your proficiency**
 - Damage may be scaled with:
-  - Unspent Movement (Press the Attack/Arcane Advantage)
+  - Unspent Movement (Press the Attack)
 
 ---
 
@@ -168,6 +170,7 @@ Spend **1 Core Action** (or equivalent) to:
 
 - Command a **group** (shared 50ft pool of movement and **collective** SD for 1 Action) 
 - Actions taken apply to all summons in the group, and SD spent are divided as you choose among the group.
+- Scale damage/effects with SD
 > Note: if an action expending Source Dice would use a summons last SD, that summons or group of summons expire.
 
 - Control a **single summon** using its full pool and SD
