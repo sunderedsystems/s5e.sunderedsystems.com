@@ -131,19 +131,6 @@ Regain HP during downtime:
 
 ---
 
-## Conversions
-
-| Conversion             | Rule                              |
-|------------------------|-----------------------------------|
-| 20ft Movement → 1 Core Action   | Spend 20ft for 1 CA      |
-| 2 SD → Core Action   | Spend 2 Source Dice for 1 CA     |
-| 1 SD → 10ft Movement | Source can be spent for extra Movement |
-| 1 Core Action + Movement → Source   | Turn unused Movement into Source or a Technique |
-
-- **When you spend a Core Action + Movement, the Movement is converted into *Source*.**
-
----
-
 ## Core Actions (CA)
 
 - Core Actions include attacks, spellcasting, and d20-based checks.
@@ -152,6 +139,19 @@ Regain HP during downtime:
   -  20ft movement = 1 CA
   -  2 SD = 1 CA
   -  10ft + 1 SD = 1CA
+
+---
+
+## Conversions
+
+**When you spend a Core Action + Movement, the Movement is converted into *Source*.**
+
+| Conversion             | Rule                              |
+|------------------------|-----------------------------------|
+| 1 Core Action + Movement → Source   | Turn unused Movement into Source or a Technique |
+| 1 SD → 10ft Movement | Source can be spent for extra Movement |
+
+-Note: Movement cannot beconverted to Source **without** a Core Action
 
 ---
 
