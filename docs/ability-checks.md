@@ -59,7 +59,7 @@ You succeed if the total equals or exceeds the **Difficulty Check (DC)**.
 
 - The **Proficiency Cap (PC)** is the **Source limit** you can spend on a technique (attack, spell, etc.)
 - The Proficiency Cap is equal to your Proficiency Bonus
-- This cap **cannot be exceeded.** After activating a Core Action or Reaction, you cannot spend Movement or Source Dice exceeding your proficiency as part of that action.
+- This cap **cannot** be exceeded.**After** activating a Core Action or Reaction, you cannot spend Movement or Source Dice exceeding your proficiency as part of that action.
   
     e.g. Your proficiency is +2. You spend 20ft of movement to take a Core Action: Attack and commit 2 Source Dice to increase the damage of the attack. The Proficiency Cap is not exceeded.
 
