@@ -56,7 +56,7 @@ const config = {
         items: [
           {
             label: 'Play Now',
-            to: '/docs/start-here',
+            to: '/docs/play-now',
             position: 'left',
           },
           {

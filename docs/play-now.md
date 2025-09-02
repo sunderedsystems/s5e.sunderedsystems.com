@@ -1,5 +1,5 @@
 ---
-id: start-here
+id: play-now
 title: New? Start Here
 sidebar_label: Start Here
 ---
