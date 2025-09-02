@@ -107,7 +107,7 @@ All characters have a **Source Pool** of dice used to fuel abilities, attacks, a
 
 ## Replenishment
 
-**Out of Combat:** Automatically regain Source Dice equal to your proficiency every unstressed, unstrained hour  
+**Out of Combat:** Automatically regain Source Dice equal to your proficiency every unstressed hour
 
 ---
 
