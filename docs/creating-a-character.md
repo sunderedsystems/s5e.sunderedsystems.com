@@ -14,7 +14,7 @@ Choose an Echelon, which affects your party dynamics and grants a powerful uniqu
 
 
 ### Aegic
-**Unique Ability:** Adds proficiency to blocked damage (if proficient in strength, add proficiency a second time).  
+**Unique Ability:** Adds proficiency to blocked damage (if proficient in Strength, add proficiency a second time).  
 *Role Example:* An Aegis Paladin may specialize in shielding allies and absorbing incoming attacks.
 
 ### Aurelic
