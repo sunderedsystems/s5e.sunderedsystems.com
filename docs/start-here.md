@@ -14,7 +14,7 @@ This game system is designed around a single, unified philosophy: Agency. At eve
 Here’s how we make that happen:
 
 ### 🌀 One Resource, Infinite Possibilities
-We use one unified resource — Source — for everything you do. Spells, attacks, extra actions, defensive moves — everything is fueled by the same simple pool. This lets you spend less time tracking different currencies and more time making impactful decisions.
+We use one unified resource — Source — for everything you do. Spells, attacks, extra actions, defensive moves — everything is fueled by the same simple pool. This lets you spend less time tracking disparate mechanics and more time making impactful decisions.
 
 ### 🔄 Trade & Convert Freely
 Actions, Source, Movement, and even Hit Points aren't isolated mechanics; they're interchangeable currencies. Need an extra strike at a critical moment? Roll to Replenish Source and and swing!
