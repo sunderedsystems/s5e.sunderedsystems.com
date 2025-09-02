@@ -115,7 +115,7 @@ All characters have a **Source Pool** of dice used to fuel abilities, attacks, a
 
 - **Before level 17**:  
   `HP = Source Dice Size × Number of Source Dice`  
-  _Example: 8d8 → 8 × 8 = 64 HP_
+  _Example: 6d6 → 6 × 6 = 36 HP_
 
 - **Level 17+**:  
   `HP = 20 × Constitution score` (not modifier)
