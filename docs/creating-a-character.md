@@ -14,7 +14,7 @@ Choose an Echelon, which affects your party dynamics and grants a powerful uniqu
 
 
 ### Aegic
-**Unique Ability:** Adds proficiency twice to blocked damage.  
+**Unique Ability:** Adds proficiency to blocked damage (if proficient in strength, add proficiency a second time).  
 *Role Example:* An Aegis Paladin may specialize in shielding allies and absorbing incoming attacks.
 
 ### Aurelic
@@ -22,11 +22,11 @@ Choose an Echelon, which affects your party dynamics and grants a powerful uniqu
 *Role Example:* An Aurelic Sorcerer might specialize in enhancing allies' combat prowess and defenses.
 
 ### Ingenic
-**Unique Ability:** Adds proficiency twice when crafting, repairing, or interacting with magical or technological items (non-attack/defense rolls), including computers.  
+**Unique Ability:** Adds proficiency when crafting, repairing, or interacting with magical or technological items (non-attack/defense rolls), including computers (if proficient in the affected roll, add proficiency a second time).   
 *Role Example:* An Ingenic Rogue might specialize in deploying devices and managing tools mid-combat, or hacking into magical mainframes.
 
 ### Malefic
-**Unique Ability:** Adds proficiency twice when dealing damage.  
+**Unique Ability:** Adds proficiency twice when dealing damage (if proficient when calculating damage, add proficiency to damage a second time).   
 *Role Example:* A Malefic Cleric might channel destructive divine energy to wipe out enemies.
 
 ### Myric
@@ -34,7 +34,7 @@ Choose an Echelon, which affects your party dynamics and grants a powerful uniqu
 *Role Example:* A Myric Warlock might pick a lock or tame a horse, even if they’d never seen either.
 
 ### Vitalic
-**Unique Ability:** Adds proficiency twice to healing.  
+**Unique Ability:** Adds proficiency twice to healing (if proficient when calculating healing, add proficiency to healing a second time).   
 *Role Example:* A Reparative Druid might focus on restoring allies quickly during combat.
 
 ---
