@@ -144,7 +144,7 @@ Regain HP during downtime:
 
 ## Conversions
 
-**When you spend a Core Action + Movement, the Movement is converted into *Source*.**
+**When you spend a Core Action + Movement, the Movement is converted into *Source*.** When Movment is Converted this way to use a damaging or healing Technique, you roll Source Dice equal to the Movement Converted.
 
 | Conversion             | Rule                              |
 |------------------------|-----------------------------------|
