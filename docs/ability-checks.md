@@ -44,20 +44,23 @@ You succeed if the total equals or exceeds the **Difficulty Check (DC)**.
 | Level | Proficiency Bonus |
 |-------|-------------------|
 | 1     | +2                |
+| 3     | +3                |
 | 5     | +4                |
-| 9     | +6                |
-| 13    | +8                |
-| 17    | +9                |
-| 20    | 3rd Proficient Ability |
+| 7    | +5                |
+| 9    | +6                |
+| 11   | +7                 |
+| 13   | +8                |
+| 15   | +9                |
+| 17    | 3rd Proficient Ability |
 
 ---
 
 ## Proficiency Cap
 
-- The **Proficiency Cap (PC)** is the **limit** you can spend on a single action before incurring **Strain** (attack, spell, counterspell, etc.)
-- Exceeding the cap makes the check a **Strained Action** (see *Stress & Strain*).
+- The **Proficiency Cap (PC)** is the **Source limit** you can spend on a technique (attack, spell, etc.)
+- This cap **cannot be exceeded.** Once a Core Action or Reaction is activated, you cannot spend Movement or Source Dice exceeding your proficiency.
   
-    e.g. Your proficiency is +2. You spend a Core Action + 3SD to cast a 3rd level spell. This increases the difficulty check by +1.
+    e.g. Your proficiency is +2. You spend 20ft of movement to take a Core Action: Attack and commit 2 Source Dice to increase the damage of the attack. The Proficiency Cap is not exceeded.
 
 - **Crafting** is exempt from this cap.
 
