@@ -23,7 +23,7 @@ Source and Movement aren't isolated mechanics; they're interchangeable currencie
 Now Movement isn’t just about positioning; it's a tactical resource. Every step counts. You can turn your unused movement into extra attacks, defensive actions, or spell enhancements.
 
 ### ⚔️ Risk & Reward
-Everything powerful comes at a cost. Tense situtions including Combat incur Stress, making simple tasks harder depending on how much Source you've spent.
+Everything powerful comes at a cost. Tense situtions including Combat incur Stress, making simple tasks harder depending on how much Source you've spent; and if you overextend and fully deplete Source, your Movement is halved.
 
 In short, Sundered places the power firmly in your hands. Your decisions carry weight. Your strategies shape every encounter. And when you take risks, you'll feel the stakes.
 
