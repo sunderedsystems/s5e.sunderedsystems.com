@@ -23,7 +23,7 @@ Actions, Source, Movement, and even Hit Points aren't isolated mechanics; they'r
 Movement isn’t just about positioning; it's a tactical resource. Every step counts. You can turn your unused movement into extra attacks, defensive actions, or spell enhancements.
 
 ### ⚔️ Risk & Reward
-Everything powerful comes at a cost. You can always reach beyond your normal limits, but it gets riskier the further you stretch. Pushing harder initiates Strain, making your actions more difficult — and all the more rewarding.
+Everything powerful comes at a cost. Tense situtions including Combat incur Stress, making simple tasks harder depending on how much Source you've spent.
 
 In short, Sundered places the power firmly in your hands. Your decisions carry weight. Your strategies shape every encounter. And when you take risks, you'll feel the stakes.
 
