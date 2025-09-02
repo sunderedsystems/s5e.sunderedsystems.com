@@ -151,7 +151,7 @@ Regain HP during downtime:
 | 1 Core Action + Movement → Source   | Turn unused Movement into Source or a Technique |
 | 1 SD → 10ft Movement | Source can be spent for extra Movement |
 
--Note: Movement cannot beconverted to Source **without** a Core Action
+- Note: Movement cannot beconverted to Source **without** a Core Action
 
 ---
 
