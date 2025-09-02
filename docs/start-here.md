@@ -17,7 +17,7 @@ Here’s how we make that happen:
 We use one unified resource — Source — for everything you do. Spells, attacks, extra actions, defensive moves — everything is fueled by the same simple pool. This lets you spend less time tracking disparate mechanics and more time making impactful decisions.
 
 ### 🔄 Trade & Convert Freely
-Actions, Source, Movement, and even Hit Points aren't isolated mechanics; they're interchangeable currencies. Need an extra strike at a critical moment? Roll to Replenish Source and and swing!
+Source and Movement aren't isolated mechanics; they're interchangeable currencies. Need an extra strike at a critical moment? Convert unused Movement into Source and attack!
 
 ### 🧭 Movement Matters
 Movement isn’t just about positioning; it's a tactical resource. Every step counts. You can turn your unused movement into extra attacks, defensive actions, or spell enhancements.
