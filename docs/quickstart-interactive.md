@@ -15,7 +15,7 @@ sidebar_label: Quickstart
 **Create Your Character:**
 - Assign ability scores: Strength, Agility, Constitution, Knowledge, Wisdom, Influence
 - Pick 2 abilities to be proficient in.
-- Choose an Echelon (optional, but unlocks unique powers).
+- Choose an Echelon (unlocks unique powers).
 - Choose a Class for your core feature and two proficiencies.
 - Pick Disciplines tied to abilities.
 
