@@ -20,7 +20,7 @@ We use one unified resource — Source — for everything you do. Spells, attack
 Source and Movement aren't isolated mechanics; they're interchangeable currencies. Need an extra strike at a critical moment? Convert unused Movement into Source and attack!
 
 ### 🧭 Movement Matters
-Now Movement isn’t just about positioning; it's a tactical resource. Every step counts. You can turn your unused movement into extra attacks, defensive actions, or spell enhancements.
+Now Movement isn’t just about positioning; it's a tactical resource. Every step counts because you can turn your unused movement into extra attacks, defensive actions, or spell enhancements.
 
 ### ⚔️ Risk & Reward
 Everything powerful comes at a cost. Tense situtions including Combat incur Stress, making simple tasks harder depending on how much Source you've spent; and if you overextend and fully deplete Source, your Movement is halved.
