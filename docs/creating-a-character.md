@@ -135,9 +135,10 @@ Regain HP during downtime:
 
 | Conversion             | Rule                              |
 |------------------------|-----------------------------------|
-| 2 SD → 1 Core Action   | Spend 2 Source Dice for 1 CA      |
-| 2 SD → 20ft Movement   | Spend 2 Source Dice for 20ft      |
-| 20ft ⇄ 1 Core Action   | Exchange freely                   |
+| 20ft Movement → 1 Core Action   | Spend 20ft for 1 CA      |
+| 2 SD → Core Action   | Spend 2 Source Dice for 1 CA     |
+| 1 SD → 10ft Movement | Source can be spent for extra Movement |
+| 1 Core Action + Movement → Source   | Turn unused Movement into Source or a Technique |
 
 - **When you spend a Core Action + Movement, the Movement is converted into *Source*.**
 
