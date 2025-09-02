@@ -56,12 +56,12 @@
 - **Melee**: Use **Strength** or **Agility**
 - **Ranged**: Use **Agility**
 
-### You may spend one of the following to attack:
+### Attacking is a Core Action:
 
-- 1 **Core Action**
-- 2 **Source Dice**
-- 20ft **Movement**
-- 10ft Movement + 1 **SD**
+- To take a Core Action (CA):
+  -  20ft movement = 1 CA
+  -  2 SD = 1 CA
+  -  10ft + 1 SD = 1CA
 
 ---
 
