@@ -50,9 +50,9 @@ Whether you’re running a one-shot tonight or jumping straight into a campaign,
 
 ## After Your First Session
 
-- **Learn the full engine:** [Getting Started / SRD Index](/creating-a-character)  
-- **Combat & counters:** [Combat](/combat) • [Counters](/counters)  
-- **Magic & techniques:** [Techniques](/techniques) • [Spells by Level](/level-1-spells)  
-- **Creatures & companions:** [Familiars](/familiars) • [Pets](/pets) • [Summons](/summoned-creatures)  
+- **Learn the full engine:** [Getting Started / SRD Index](/docs/creating-a-character)  
+- **Combat & counters:** [Combat](/docs/combat) • [Counters](/docs/counters)  
+- **Magic & techniques:** [Techniques](/docs/techniques) • [Spells by Level](/docs/level-1-spells)  
+- **Creatures & companions:** [Familiars](/docs/familiars) • [Pets](/docs/pets) • [Summons](/docs/summoned-creatures)  
 - **Join the community:** [Discord](https://discord.com/invite/ywhsncnf2S)
-- **Create content for Sundered:** [Sundered Creator License (SCL)](/SCL)
+- **Create content for Sundered:** [Sundered Creator License (SCL)](/docs/SCL)
