@@ -40,7 +40,7 @@ Whether you’re running a one-shot tonight or jumping straight into a campaign,
 
 **Download the Quickstart**  
 - 👉 **[Quickstart (Interactive)](./quickstart-interactive)** — concise rules to run your first session fast.  
-- [⬇️ Download the Quickstart (PDF)](/img/quickstartdownload.pdf)
+- [⬇️ Download the Quickstart (PDF)](/static/img/quickstartdownload.pdf)
 
 > Prefer to build from scratch? Start with **[Creating a Character](/docs/creating-a-character)**.
 
