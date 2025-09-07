@@ -11,7 +11,7 @@ In Ascended play (beyond level 20) a character gains the core feature of any new
 ### Invocations
 
 - Gain Invocation list as talents options.
-- Proficiency determines highest invocation level you can use (level capped by proficiency).
+- Proficiency determines highest invocation level you can gain/use (level capped by proficiency).
 
 
 ## Class Talents and Fighting Styles
@@ -38,10 +38,10 @@ Any class may pick a Fighting Style instead of a class talent. You cannot take t
 ### The Fiend
 
 **Dark one’s blessing**  
-Once per round, when the warlock deals damage to a creature, they gain temporary hit points equal to their spellcasting modifier.
+When the warlock deals an instance of damage (single target or Area of Effect), they gain temporary hit points equal to their proficiency.
 
 **Dark one’s luck**  
-When the warlock makes an ability check they can expend 1 SD to add a d10 to the roll. They can do so after seeing the initial roll but before any of the roll's effects occur.
+When the warlock makes an ability check they can expend 2 SD to add their spellcasting modifier to the roll. They can do so after seeing the initial roll but before any of the roll's effects occur.
 
 **Fiendish Resilience**  
 The warlock can choose one damage type when they finish a short or long rest. They gain resistance to that damage type until they choose a different one with this feature.
