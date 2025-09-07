@@ -121,7 +121,7 @@
 
 ## Haste  
 **Target:** Constitution  
-**Effect:** Target’s speed doubles, gains +1 action per turn (attack, dash, disengage), and +2 to checks. When spell ends, the creature can't move or act for 1 turn.  
+**Effect:** Gains 20ft Movement and +2 to checks. When spell ends, the creature can't move or act for 1 turn.  
 **Duration:** concentration  
 **Scaling (SD):** +1 SD = +1 target
 
@@ -218,7 +218,7 @@
 
 ## Slow  
 **Target:** Constitution  
-**Effect:** Halves speed, imposes −2 to checks and prevents reactions. On success, target can only take 1 action or bonus action, not both.  
+**Effect:** Target loses 20ft Movement, imposes −2 to checks and prevents reactions.
 **Range:** 120ft, 40ft cube  
 **Duration:** concentration  
 **Scaling (SD):** +1 SD = +10ft cube, +target
