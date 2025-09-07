@@ -1,10 +1,51 @@
 # Paladin
 
-Paladins are driven by unwavering ideals. Some go so far as to swear sacred oaths, devoting themselves to a god, a principle, or a cosmic (dis)order that mirrors their understanding of existence.
+#### Paladins are driven by unwavering ideals. Some go so far as to swear sacred oaths, devoting themselves to a god, a principle, or a cosmic (dis)order that mirrors their understanding of existence.
 
-#### Fighting Style
+Classes define your unique strengths.
 
-Paladins gain access to a Fighting Style at level one.
+When multi-classing under level 20, players gain the core feature of a second class at level 10 in that class.
+
+In Ascended play (beyond level 20) a character gains the core feature of any new class they take at level 20 in that class.
+
+## Core Features
+
+### Aura
+
+- Emit an aura with a radius of 5ft per point of proficiency.
+
+Allies within the aura:
+
+- Are immune to fear
+
+- Add paladin proficiency to Block and Parry absorption (in addition to their own)
+
+- Deal additional damage as smite (Paladin Proficiency) on melee, ranged, or spell attacks originating within the aura
+
+- All bonuses are in addition to base proficiencies.
+
+### Natural Born Fighter
+
+- You gain an extra fighting style. It does not count against your talents.
+
+## Class Talents and Fighting Styles
+
+- Start with 2 talents at level 1.
+- Gain more talents equal to your proficiency each time proficiency increases.
+- May reassign 2 talents each time proficiency increases (or every 5 levels after level 20)
+
+## Fighting Styles
+
+Any class may pick a Fighting Style instead of a class talent. You cannot take the same Fighting Style more than once.
+
+**Options:**
+
+- **Ranged:** Increase ranged weapon range by 10ft per proficiency.
+- **Defense:** While wearing armor, decrease damage by proficiency an extra time.
+- **Dueling:** One-handed weapon + empty offhand—add damage equal to SD spent on attack.
+- **Great Weapon Fighting:** When rolling 1 or 2 on a damage die for a two-handed melee weapon, reroll (must use new roll). Weapon must be two-handed or versatile.
+- **Protection:** If a creature within 5ft is attacked, you can block for them.
+- **Two-Weapon Fighting:** When using two weapons, may use Sleight of Hand vs. Agility for your second attack; on success, disarm or make the target drop an item.
 
 ---
 
