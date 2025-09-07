@@ -37,8 +37,6 @@ Any class may pick a Fighting Style instead of a class talent. You cannot take t
 
 ## Talents
 
----
-
 #### Second Wind
 
 When rolling SD to regain hit points, the fighter can double the result if they are under half of their hit points.
