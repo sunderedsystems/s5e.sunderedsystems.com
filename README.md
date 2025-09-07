@@ -14,7 +14,7 @@ It’s a complete system built around agency and tactics; where one unified pool
   Every action — from spells and attacks to counters and movement — draws from the same unified resource: Source. There’s no separate economy for bonus actions, reactions, or spell slots.
 
 - **Convert Anything. Trade Everything.**  
-  Source, movement, and even hit points are interchangeable. Burn what you have to get what you need.
+  Source and Movement are interchangeable. Burn what you have to get what you need.
 
 - **No Passive Turns.**  
   Every player can counter, block, or redirect — even when it’s not their initiative.
