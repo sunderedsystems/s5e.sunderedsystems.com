@@ -11,6 +11,7 @@ In Ascended play (beyond level 20) a character gains the core feature of any new
 ### Invocations
 
 - Gain Invocation list as talents options.
+- Gain one Invocation that does not count against your total talents
 - Proficiency determines highest invocation level you can gain/use (level capped by proficiency).
 
 
