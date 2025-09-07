@@ -88,8 +88,6 @@ module.exports = {
       type: 'category',
       label: 'Sundered 5e Classes',
       items: [
-        'choosing-a-class-core-features',
-        'class-talents-and-fighting-styles',
         'barbarian',
         'bard',
         'cleric',
