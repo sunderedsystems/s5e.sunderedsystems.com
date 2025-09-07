@@ -37,14 +37,6 @@ Any class may pick a Fighting Style instead of a class talent. You cannot take t
 - **Protection:** If a creature within 5ft is attacked, you can block for them.
 - **Two-Weapon Fighting:** When using two weapons, may use Sleight of Hand vs. Agility for your second attack; on success, disarm or make the target drop an item.
 
----
-
-#### Wildshape
-
-This is a concentration spell that costs a Core Action or 2SD to activate. The druid rearranges their form, including worn or carried items (and stat block), into a chosen animal form. If it is not one of the druid’s known shapes, they must pass a stressed check to morph into and out of the shape, the difficulty of which is the highest stat of the shape they are shifting into plus 1 for every missing SD. The druid can use wisdom, knowledge, or influence to do so; however, they can only apply proficiency if proficient in the spellcasting ability being utilized.
-
-The druid may cast spells while in wildshape. Spells still require a focus, verbal, or somatic components.
-
 ## Talents
 
 ---
