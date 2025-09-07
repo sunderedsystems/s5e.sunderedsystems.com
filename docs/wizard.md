@@ -1,6 +1,38 @@
 # Wizard
 
----
+Classes define your unique strengths.
+
+When multi-classing under level 20, players gain the core feature of a second class at level 10 in that class.
+
+In Ascended play (beyond level 20) a character gains the core feature of any new class they take at level 20 in that class.
+
+## Core Features
+
+### Wizardoir
+
+- Gains an extra SD every wizard level (max 20). May only be spent on spells. Replenishes simultaneously with Source.
+
+## Class Talents and Fighting Styles
+
+- Start with 2 talents at level 1.
+- Gain more talents equal to your proficiency each time proficiency increases.
+- May reassign 2 talents each time proficiency increases (or every 5 levels after level 20)
+
+## Fighting Styles
+
+Any class may pick a Fighting Style instead of a class talent. You cannot take the same Fighting Style more than once.
+
+**Options:**
+
+- **Ranged:** Increase ranged weapon range by 10ft per proficiency.
+- **Defense:** While wearing armor, decrease damage by proficiency an extra time.
+- **Dueling:** One-handed weapon + empty offhand—add damage equal to SD spent on attack.
+- **Great Weapon Fighting:** When rolling 1 or 2 on a damage die for a two-handed melee weapon, reroll (must use new roll). Weapon must be two-handed or versatile.
+- **Protection:** If a creature within 5ft is attacked, you can block for them.
+- **Two-Weapon Fighting:** When using two weapons, may use Sleight of Hand vs. Agility for your second attack; on success, disarm or make the target drop an item.
+
+## Talents 
+
 
 ### In Arcanum
 The wizard has a spellbook that counts as a focus from which they cast spells. It must be within 10ft of them and occupy the same dimension to use it. It is immune to non-magical damage. If it is magically destroyed, the wizard knows a ritual by which they can create a new spellbook. The ritual takes 1 hour for each spell (excluding cantrips) the book contains, and may be completed in sessions. The wizard may not cast a spell that is not in the spellbook (excluding cantrips).
