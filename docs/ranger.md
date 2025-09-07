@@ -10,7 +10,7 @@ In Ascended play (beyond level 20) a character gains the core feature of any new
 
 ### Swift
 
-Base movement speed increased by 20ft
+- Base movement speed increased by 20ft
 
 ### Natural Born Fighter
 
