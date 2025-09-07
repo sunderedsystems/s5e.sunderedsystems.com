@@ -18,7 +18,7 @@ In Ascended play (beyond level 20) a character gains the core feature of any new
     Gain more talents equal to your proficiency each time proficiency increases.
     May reassign 2 talents each time proficiency increases (or every 5 levels after level 20)
 
-Fighting Styles
+### Fighting Styles
 
 Any class may pick a Fighting Style instead of a class talent. You cannot take the same Fighting Style more than once.
 
