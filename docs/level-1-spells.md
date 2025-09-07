@@ -217,7 +217,7 @@
 **Target:** Untargeted  
 **Effect:** Target’s movement speed increases by 10ft.  
 **Duration:** Concentration  
-**Scaling (SD):** +1 SD = +10ft movement speed or +1 additional target
+**Scaling (SD):** +1 SD = +1 additional target
 
 ---
 
