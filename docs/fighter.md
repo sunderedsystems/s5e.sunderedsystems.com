@@ -35,6 +35,8 @@ Any class may pick a Fighting Style instead of a class talent. You cannot take t
 - **Protection:** If a creature within 5ft is attacked, you can block for them.
 - **Two-Weapon Fighting:** When using two weapons, may use Sleight of Hand vs. Agility for your second attack; on success, disarm or make the target drop an item.
 
+## Talents
+
 ---
 
 #### Second Wind
