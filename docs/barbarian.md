@@ -12,7 +12,6 @@ In Ascended play (beyond level 20) a character gains the core feature of any new
 
 Can’t die while raging. If reduced to 0 HP, subsequent damage taken removes 1 SD. Rage ends after encounter or when SD is empty.
 
-
 ### Rage
 
 Spend 2 SD (or equivalent) to enter Rage at any time and gain access to barbarian abilities.
@@ -22,6 +21,10 @@ Spend 2 SD (or equivalent) to enter Rage at any time and gain access to barbaria
     - Choose to cancel it (may be done at any time),
     - Run out of Source Dice,
     - Or have not taken damage or made an attack for 1 minute.
+ 
+### Natural Born Fighter
+
+- You gain an extra fighting style. It does not count against your talents.
  
 ## Class Talents and Fighting Styles
 
