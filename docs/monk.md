@@ -38,8 +38,6 @@ Any class may pick a Fighting Style instead of a class talent. You cannot take t
 
 ## Talents
 
----
-
 #### Grace
 
 While wearing no armor, the monk may block using their spellcasting modifier instead of their strength modifier.
