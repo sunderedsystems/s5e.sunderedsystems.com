@@ -47,7 +47,6 @@ Any class may pick a Fighting Style instead of a class talent. You cannot take t
 
 ## Talents
 
----
 
 #### Recklessness (requires rage)
 While raging, gain advantage on attacks, but attackers also gain advantage against you until your next turn.
