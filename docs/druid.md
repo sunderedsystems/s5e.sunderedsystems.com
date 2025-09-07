@@ -14,6 +14,10 @@ In Ascended play (beyond level 20) a character gains the core feature of any new
 - Wildshape is not totem armor—if the druid dies in Wildshape, they die.
 - Cast spells in Wildshape
 
+This is a spell that costs a Core Action or 2SD to activate. The druid rearranges their form, including worn or carried items (and stat block), into a chosen animal form. If it is not one of the druid’s known shapes, they must pass a stressed check to morph into and out of the shape, the difficulty of which is the highest stat of the shape they are shifting into plus 1 for every missing SD. The druid can use wisdom, knowledge, or influence to do so; however, they can only apply proficiency if proficient in the spellcasting ability being utilized.
+
+The druid may cast spells while in wildshape. Spells still require a focus, verbal, or somatic components.
+
 ## Class Talents and Fighting Styles
 
 - Start with 2 talents at level 1.
@@ -23,7 +27,6 @@ In Ascended play (beyond level 20) a character gains the core feature of any new
 Fighting Styles
 
 Any class may pick a Fighting Style instead of a class talent. You cannot take the same Fighting Style more than once.
-
 
 **Options:**
 
@@ -41,6 +44,8 @@ Any class may pick a Fighting Style instead of a class talent. You cannot take t
 This is a concentration spell that costs a Core Action or 2SD to activate. The druid rearranges their form, including worn or carried items (and stat block), into a chosen animal form. If it is not one of the druid’s known shapes, they must pass a stressed check to morph into and out of the shape, the difficulty of which is the highest stat of the shape they are shifting into plus 1 for every missing SD. The druid can use wisdom, knowledge, or influence to do so; however, they can only apply proficiency if proficient in the spellcasting ability being utilized.
 
 The druid may cast spells while in wildshape. Spells still require a focus, verbal, or somatic components.
+
+## Talents
 
 ---
 
