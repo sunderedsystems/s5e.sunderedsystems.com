@@ -1,5 +1,43 @@
 # Rogue
 
+Classes define your unique strengths.
+
+When multi-classing under level 20, players gain the core feature of a second class at level 10 in that class.
+
+In Ascended play (beyond level 20) a character gains the core feature of any new class they take at level 20 in that class.
+
+## Core Features
+
+### Surprise Attack
+
+- Stealthed attacks or attacks on targets engaged with an ally lower DC by proficiency.
+
+### Like Shadow
+- Rogues have no movement penalty in stealth.
+
+### Natural Born Fighter
+
+- You gain an extra fighting style. It does not count against your talents.
+
+## Class Talents and Fighting Styles
+
+- Start with 2 talents at level 1.
+- Gain more talents equal to your proficiency each time proficiency increases.
+- May reassign 2 talents each time proficiency increases (or every 5 levels after level 20)
+
+## Fighting Styles
+
+Any class may pick a Fighting Style instead of a class talent. You cannot take the same Fighting Style more than once.
+
+**Options:**
+
+- **Ranged:** Increase ranged weapon range by 10ft per proficiency.
+- **Defense:** While wearing armor, decrease damage by proficiency an extra time.
+- **Dueling:** One-handed weapon + empty offhand—add damage equal to SD spent on attack.
+- **Great Weapon Fighting:** When rolling 1 or 2 on a damage die for a two-handed melee weapon, reroll (must use new roll). Weapon must be two-handed or versatile.
+- **Protection:** If a creature within 5ft is attacked, you can block for them.
+- **Two-Weapon Fighting:** When using two weapons, may use Sleight of Hand vs. Agility for your second attack; on success, disarm or make the target drop an item.
+
 ---
 
 ### Expertise
@@ -7,7 +45,7 @@ The rogue gains 2 extra disciplines with which they are proficient.
 
 ---
 
-### Sneak Attack
+### Opportunist
 When the rogue makes a successful attack against a creature that is either unaware of them or engaged by one of their allies, they deal additional damage equal to their proficiency plus the number of SD committed to the attack.
 
 ---
@@ -19,8 +57,8 @@ In addition, the rogue understands a set of secret signs and symbols used to con
 
 ---
 
-### Like Shadow
-Once per round, the rogue is able to disengage, even if they are out of movement.
+### Like Mist
+The rogue is able to disengage, even if they are out of movement.
 
 ---
 
@@ -39,13 +77,13 @@ If the rogue expends 1 or more SD and rolls a 9 or lower on a non combat ability
 
 ---
 
-### Like Mist
+### Now You See Me
 Attack rolls against the rogue cannot be made with advantage until they have been hit within a round.
 
 ---
 
 ### Weighted Dice
-When making a d20 check, the rogue may roll a d4 and add it to the check before the result is known. If they fail the check, they may not use this talent again until their Source is fully replenished.
+When making a d20 check, the rogue may spend 2SD to add their spellcasting modifier to the check before the roll resolves.
 
 ---
 
