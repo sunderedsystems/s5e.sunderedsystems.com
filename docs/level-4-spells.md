@@ -126,8 +126,8 @@ Size scaled by proficiency and available materials: +2 = Bed, +9 = 2 Story House
 **Target:** Untargeted  
 **Effect:** Target ignores difficult terrain and magical movement restrictions  
 **Range:** Touch  
-**Duration:** 1 hour  
-**Scaling (SD):** +1 SD = +1 target or +1 hour
+**Duration:** Concentration
+**Scaling (SD):** +1 SD = +1 target
 
 ---
 
