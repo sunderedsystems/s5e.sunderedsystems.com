@@ -4,7 +4,7 @@ Classes define your unique strengths.
 
 When multi-classing under level 20, players gain the core feature of a second class at level 10 in that class.
 
-In Ascended play (beyond level 20), a character gains the core feature of any new class they take at level 20 in that class.
+In Ascended play (beyond level 20) a character gains the core feature of any new class they take at level 20 in that class.
 
 ## Core Features
 
