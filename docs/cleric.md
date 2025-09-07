@@ -1,5 +1,37 @@
 # Cleric
 
+Classes define your unique strengths.
+
+When multi-classing under level 20, players gain the core feature of a second class at level 10 in that class.
+
+In Ascended play (beyond level 20) a character gains the core feature of any new class they take at level 20 in that class.
+
+## Core Features
+
+### Supplement
+
+    Using a Core Action/equivalent, Cleric can link their Source Pool to a number of targets equal to their proficiency, expanding their allies Source Pool.
+
+## Class Talents and Fighting Styles
+
+    Start with 2 talents at level 1.
+    Gain more talents equal to your proficiency each time proficiency increases.
+    May reassign 2 talents each time proficiency increases (or every 5 levels after level 20)
+
+Fighting Styles
+
+Any class may pick a Fighting Style instead of a class talent. You cannot take the same Fighting Style more than once.
+
+Options:
+
+    Ranged: Increase ranged weapon range by 10ft per proficiency.
+    Defense: While wearing armor, decrease damage by proficiency an extra time.
+    Dueling: One-handed weapon + empty offhand—add damage equal to SD spent on attack.
+    Great Weapon Fighting: When rolling 1 or 2 on a damage die for a two-handed melee weapon, reroll (must use new roll). Weapon must be two-handed or versatile.
+    Protection: If a creature within 5ft is attacked, you can block for them.
+    Two-Weapon Fighting: When using two weapons, may use Sleight of Hand vs. Agility for your second attack; on success, disarm or make the target drop an item.
+
+
 #### Domain: 
 
 The cleric has on their person at all times the symbol of divinity according to their domain, through which they can cast or channel spells (this can be a tattoo or drawn symbol). The domains are Knowledge, Life, Light, Nature, Tempest, Trickery, or War.
