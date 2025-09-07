@@ -40,7 +40,17 @@ Whether you’re running a one-shot tonight or jumping straight into a campaign,
 
 **Download the Quickstart**  
 - 👉 **[Quickstart (Interactive)](./quickstart-interactive)** — concise rules to run your first session fast.  
-- [⬇️ Download the Quickstart (PDF)](/static/img/QuickstartDownload.pdf)
+- [⬇️ Download the Quickstart (PDF)](/img/QuickstartDownload.pdf)
 
 > Prefer to build from scratch? Start with **[Creating a Character](/docs/creating-a-character)**.
 
+---
+
+## After Your First Session
+
+- **Learn the full engine:** [Getting Started / SRD Index](/docs/creating-a-character)  
+- **Combat & counters:** [Combat](/docs/combat) • [Counters](/docs/counters)  
+- **Magic & techniques:** [Techniques](/docs/techniques) • [Spells by Level](/docs/level-1-spells)  
+- **Creatures & companions:** [Familiars](/docs/familiars) • [Pets](/docs/pets) • [Summons](/docs/summoned-creatures)  
+- **Join the community:** [Discord](https://discord.com/invite/ywhsncnf2S)
+- **Create content for Sundered:** [Sundered Creator License (SCL)](/docs/SCL)
