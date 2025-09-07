@@ -164,7 +164,7 @@
 **Target:** Self  
 **Effect:** Merge into a stone object, wall, or floor. Can hear but can’t see. No physical damage can reach you unless the stone is destroyed.  
 **Duration:** concentration  
-**Scaling (SD):** none
+**Scaling (SD):** +1SD = +target, +10ft range
 
 ---
 
@@ -172,7 +172,7 @@
 **Target:** Touch  
 **Effect:** Target is warded from divination magic, including detection spells and magical scrying.  
 **Duration:** concentration  
-**Scaling (SD):** +1 SD = +target
+**Scaling (SD):** +1 SD = +target, +10ft range
 
 ---
 
