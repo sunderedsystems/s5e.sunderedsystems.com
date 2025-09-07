@@ -39,8 +39,6 @@ Any class may pick a Fighting Style instead of a class talent. You cannot take t
 
 ## Talents
 
----
-
 #### Circle
 
 Choose a circle of druids: the Circle of the Land, Circle of the Moon, Circle of Flame.
