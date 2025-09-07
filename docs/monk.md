@@ -38,9 +38,9 @@ Any class may pick a Fighting Style instead of a class talent. You cannot take t
 
 ---
 
-#### Wisdom’s Grace
+#### Grace
 
-While wearing no armor, the monk may block using their wisdom modifier instead of their strength modifier.
+While wearing no armor, the monk may block using their spellcasting modifier instead of their strength modifier.
 
 ---
 
@@ -114,4 +114,4 @@ Additionally, the monk can spend 8 ki points to cast the astral projection spell
 
 #### Perfect Self
 
-When the monk rolls for initiative and has no ki remaining, they regain 4 ki.
+When the monk rolls for initiative and has no ki remaining, they regain ki equal to their proficiency.
