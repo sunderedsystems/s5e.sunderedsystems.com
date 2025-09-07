@@ -1,11 +1,44 @@
 # Sorcerer
 
+Classes define your unique strengths.
+
+When multi-classing under level 20, players gain the core feature of a second class at level 10 in that class.
+
+In Ascended play (beyond level 20) a character gains the core feature of any new class they take at level 20 in that class.
+
+## Core Features
+
+### Metamagic
+
+- Gains one Metamagic talent that does not count against their total talents. 
+
+## Class Talents and Fighting Styles
+
+- Start with 2 talents at level 1.
+- Gain more talents equal to your proficiency each time proficiency increases.
+- May reassign 2 talents each time proficiency increases (or every 5 levels after level 20)
+
+## Fighting Styles
+
+Any class may pick a Fighting Style instead of a class talent. You cannot take the same Fighting Style more than once.
+
+**Options:**
+
+- **Ranged:** Increase ranged weapon range by 10ft per proficiency.
+- **Defense:** While wearing armor, decrease damage by proficiency an extra time.
+- **Dueling:** One-handed weapon + empty offhand—add damage equal to SD spent on attack.
+- **Great Weapon Fighting:** When rolling 1 or 2 on a damage die for a two-handed melee weapon, reroll (must use new roll). Weapon must be two-handed or versatile.
+- **Protection:** If a creature within 5ft is attacked, you can block for them.
+- **Two-Weapon Fighting:** When using two weapons, may use Sleight of Hand vs. Agility for your second attack; on success, disarm or make the target drop an item.
+
+## Talents
+
 ---
 
 ### Metamagic
 
 **Careful spell**  
-When the sorcerer casts an area of effect spell, they can choose a number of targets equal to the SD spent on the spell to shield from the spells effects.
+When the sorcerer casts an untargeted area of effect spell, they can choose a number of targets equal to the SD spent on the spell to shield from the spells effects.
 
 **Distant spell**  
 When spending SD to upgrade the distance of a spell, the sorcerer doubles the added distance per SD spent.
@@ -17,7 +50,7 @@ When spending SD to increase the damage of a spell, the sorcerer may reroll any 
 When spending SD to increase the duration of a spell, the sorcerer doubles the added duration per SD spent.
 
 **Heightened spell**  
-If the sorcerer spends 2 or more SD on a spell that targets an ability score, they may roll with advantage. The sorcerer can do this once per round in combat. If used outside of combat, each additional use before a rest becomes a stressed task.
+If the sorcerer spends Source on a spell that targets an ability score, they may spend 1SD to lower the difficulty of the check by -1 per SD spent.
 
 **Quickened spell**  
 If the sorcerer spends SD to cast a spell or ritual that typically takes more than a Core Action to resolve, they can cut that spell’s time in half.
