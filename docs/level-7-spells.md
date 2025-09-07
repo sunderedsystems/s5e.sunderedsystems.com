@@ -12,7 +12,7 @@
 **Effect:** Summons a spectral blade that strikes a creature within range using your spellcasting ability. On hit, deals base spell damage + 7SD. You can move the sword and attack as a Core Action.  
 **Range:** 50ft  
 **Duration:** concentration  
-**Scaling (SD):** +1 SD = +damage, +10ft movement range per round, +duration
+**Scaling (SD):** +1 SD = +damage, +10ft movement range per round
 
 ---
 
