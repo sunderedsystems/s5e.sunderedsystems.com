@@ -1,7 +1,7 @@
 # Cantrips
 
 **Spell Level:** 0 (Zero)  
-**Casting Cost:** Core Action: 2SD, 10ft movement + 1SD, or 20ft movement  
+**Casting Cost:** Core Action, 2SD, 10ft movement + 1SD, or 20ft movement  
 **Base Range:** 30ft  
 **Duration:** Instant  
 **Base Damage:** Spellcasting modifier + Proficiency + damage pool  
