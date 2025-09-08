@@ -108,6 +108,7 @@ module.exports = {
       type: 'category',
       label: 'Spell List',
       items: [
+        'cantrips',
         'level-1-spells',
         'level-2-spells',
         'level-3-spells',
